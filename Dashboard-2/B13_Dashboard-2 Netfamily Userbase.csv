@@ -1,0 +1,1090 @@
+User ID,Subscription Type,Join Year,Join Date,Last Payment Date,Most Watched Genre,Country,Age,Gender,Device,Plan Duration,Monthly Subscription Price,Video quality,Resolution,"Customer Life
+(In Month)",Total Sales,"Total Days 
+(From last payment to 31st December) "
+2,Premium,2021,05/09/2021,11/22/2023,Non-Fiction,Canada,35,Female,Tablet,1 Month,649,Best,4K+HDR,30,19470,39
+3,Standard,2023,2/28/2023,11/27/2023,Self-Help,United Kingdom,42,Male,Smart TV,1 Month,499,Better,1080p,8,3992,34
+4,Standard,2022,7/10/2022,10/26/2023,Non-Fiction,Australia,51,Female,Laptop,3 Month,499,Better,1080p,15,7485,66
+5,Basic,2023,5/1/2023,11/28/2023,Romance,Germany,33,Male,Smartphone,1 Month,199,Good,720p,6,1194,33
+6,Premium,2022,3/18/2022,10/27/2023,Romance,France,29,Female,Smart TV,3 Month,649,Best,4K+HDR,19,12331,65
+7,Standard,2021,12/9/2021,12/4/2023,Horror,Brazil,46,Male,Tablet,1 Month,499,Better,1080p,23,11477,27
+8,Basic,2023,4/2/2023,12/24/2023,Thriller,Mexico,39,Female,Laptop,1 Month,199,Good,720p,8,1592,7
+9,Standard,2022,10/20/2022,10/23/2023,Crime,Spain,37,Male,Smartphone,3 Month,499,Better,1080p,12,5988,69
+10,Premium,2023,1/7/2023,6/22/2023,Crime,Italy,44,Female,Smart TV,6 Month,649,Best,4K+HDR,5,3245,192
+11,Basic,2022,5/16/2022,7/22/2023,Mystery,United States,31,Female,Smartphone,6 Month,199,Good,720p,14,2786,162
+12,Premium,2023,3/23/2023,10/28/2023,Comedy,Canada,45,Male,Tablet,3 Month,649,Best,4K+HDR,7,4543,64
+13,Standard,2021,11/30/2021,12/27/2023,Romance,United Kingdom,48,Female,Laptop,1 Month,499,Better,1080p,24,11976,4
+14,Basic,2022,8/1/2022,12/26/2023,Drama,Australia,27,Male,Smartphone,1 Month,199,Good,720p,16,3184,5
+15,Standard,2023,5/9/2023,9/28/2023,Fantasy,Germany,38,Female,Smart TV,3 Month,499,Better,1080p,4,1996,94
+16,Premium,2022,4/7/2022,12/27/2023,Autobiography,France,36,Male,Tablet,1 Month,649,Best,4K+HDR,20,12980,4
+17,Basic,2022,1/24/2022,10/25/2023,Drama,Brazil,30,Female,Laptop,3 Month,199,Good,720p,21,4179,67
+18,Standard,2021,10/18/2021,11/24/2023,Horror,Mexico,43,Male,Smartphone,1 Month,499,Better,1080p,25,12475,37
+19,Premium,2023,2/15/2023,7/23/2023,Crime,Spain,32,Female,Smart TV,6 Month,649,Best,4K+HDR,5,3245,161
+20,Basic,2023,5/27/2023,11/22/2023,Action,Italy,41,Male,Tablet,1 Month,199,Good,720p,5,995,39
+21,Premium,2023,6/10/2023,10/22/2023,Comedy,United States,26,Female,Laptop,3 Month,649,Best,4K+HDR,4,2596,70
+22,Basic,2022,7/22/2022,12/28/2023,Horror,Canada,34,Male,Smartphone,1 Month,199,Good,720p,17,3383,3
+23,Standard,2021,12/5/2021,9/27/2023,Comedy,United Kingdom,49,Female,Smart TV,3 Month,499,Better,1080p,21,10479,95
+24,Standard,2022,4/3/2022,6/26/2023,Horror,Australia,31,Male,Tablet,6 Month,499,Better,1080p,14,6986,188
+25,Basic,2023,3/14/2023,10/28/2023,Crime,Germany,40,Female,Laptop,3 Month,199,Good,720p,7,1393,64
+26,Premium,2022,1/12/2022,6/27/2023,Comedy,France,29,Male,Smartphone,6 Month,649,Best,4K+HDR,17,11033,187
+27,Basic,2022,8/29/2022,6/25/2023,Historical Fiction,Brazil,47,Female,Smart TV,6 Month,199,Good,720p,9,1791,189
+28,Standard,2021,9/27/2021,11/24/2023,Comedy,Mexico,33,Male,Tablet,1 Month,499,Better,1080p,25,12475,37
+29,Premium,2022,12/19/2022,7/23/2023,Historical Fiction,Spain,36,Female,Laptop,6 Month,649,Best,4K+HDR,7,4543,161
+30,Basic,2023,5/17/2023,12/22/2023,Historical Fiction,Italy,42,Male,Smartphone,1 Month,199,Good,720p,7,1393,9
+31,Premium,2023,2/3/2023,9/22/2023,Biography,United States,28,Female,Smart TV,3 Month,649,Best,4K+HDR,7,4543,100
+32,Basic,2022,7/7/2022,12/28/2023,Autobiography,Canada,37,Male,Tablet,1 Month,199,Good,720p,17,3383,3
+33,Standard,2022,1/21/2022,9/27/2023,Adventure,United Kingdom,41,Female,Laptop,3 Month,499,Better,1080p,20,9980,95
+34,Standard,2022,5/25/2022,9/26/2023,Thriller,Australia,29,Male,Smartphone,3 Month,499,Better,1080p,16,7984,96
+35,Basic,2023,4/11/2023,11/28/2023,Action,Germany,39,Female,Smart TV,1 Month,199,Good,720p,7,1393,33
+36,Premium,2022,3/1/2022,9/27/2023,Biography,France,35,Male,Tablet,3 Month,649,Best,4K+HDR,18,11682,95
+37,Basic,2022,9/14/2022,12/25/2023,Historical Fiction,Brazil,45,Female,Laptop,1 Month,199,Good,720p,15,2985,6
+38,Standard,2021,11/5/2021,12/24/2023,Autobiography,Mexico,32,Male,Smartphone,1 Month,499,Better,1080p,25,12475,7
+39,Premium,2022,12/28/2022,9/23/2023,Non-Fiction,Spain,27,Female,Smart TV,3 Month,649,Best,4K+HDR,8,5192,99
+40,Basic,2023,3/7/2023,7/22/2023,Adventure,Italy,48,Male,Tablet,6 Month,199,Good,720p,4,796,162
+41,Premium,2023,1/20/2023,6/22/2023,Adventure,United States,31,Female,Laptop,6 Month,649,Best,4K+HDR,5,3245,192
+42,Basic,2022,6/15/2022,10/28/2023,Action,Canada,40,Male,Smartphone,3 Month,199,Good,720p,16,3184,64
+43,Standard,2022,2/7/2022,10/27/2023,Non-Fiction,United Kingdom,36,Female,Smart TV,3 Month,499,Better,1080p,20,9980,65
+44,Standard,2022,4/26/2022,12/26/2023,Crime,Australia,29,Male,Tablet,1 Month,499,Better,1080p,20,9980,5
+45,Basic,2023,1/28/2023,9/28/2023,Mystery,Germany,43,Female,Laptop,3 Month,199,Good,720p,8,1592,94
+46,Premium,2022,2/23/2022,6/27/2023,Adventure,France,34,Male,Smartphone,6 Month,649,Best,4K+HDR,16,10384,187
+47,Basic,2022,10/5/2022,11/25/2023,Mystery,Brazil,39,Female,Smart TV,1 Month,199,Good,720p,13,2587,36
+48,Standard,2021,9/15/2021,7/24/2023,Comedy,Mexico,32,Male,Tablet,6 Month,499,Better,1080p,22,10978,160
+49,Premium,2022,11/10/2022,6/23/2023,Drama,Spain,28,Female,Laptop,6 Month,649,Best,4K+HDR,7,4543,191
+50,Basic,2023,6/2/2023,10/22/2023,Horror,Italy,45,Male,Smartphone,3 Month,199,Good,720p,4,796,70
+51,Premium,2023,2/27/2023,6/22/2023,Science Fiction,United States,30,Female,Smart TV,6 Month,649,Best,4K+HDR,3,1947,192
+52,Basic,2022,8/29/2022,7/28/2023,Adventure,Canada,37,Male,Tablet,6 Month,199,Good,720p,10,1990,156
+53,Standard,2022,1/13/2022,10/27/2023,Fantasy,United Kingdom,41,Female,Laptop,3 Month,499,Better,1080p,21,10479,65
+54,Standard,2022,6/30/2022,9/26/2023,Romance,Australia,29,Male,Smartphone,3 Month,499,Better,1080p,14,6986,96
+55,Basic,2023,4/20/2023,10/28/2023,Fantasy,Germany,39,Female,Smart TV,3 Month,199,Good,720p,6,1194,64
+56,Premium,2022,3/15/2022,7/27/2023,Self-Help,France,36,Male,Tablet,6 Month,649,Best,4K+HDR,16,10384,157
+57,Basic,2022,10/1/2022,11/25/2023,Thriller,Brazil,46,Female,Laptop,1 Month,199,Good,720p,13,2587,36
+58,Standard,2021,10/8/2021,12/24/2023,Mystery,Mexico,34,Male,Smartphone,1 Month,499,Better,1080p,26,12974,7
+59,Premium,2022,12/3/2022,12/23/2023,Mystery,Spain,27,Female,Smart TV,1 Month,649,Best,4K+HDR,12,7788,8
+60,Basic,2023,6/14/2023,9/22/2023,Thriller,Italy,42,Male,Tablet,3 Month,199,Good,720p,3,597,100
+61,Premium,2023,2/8/2023,6/22/2023,Romance,United States,28,Female,Laptop,6 Month,649,Best,4K+HDR,4,2596,192
+62,Basic,2022,8/3/2022,10/28/2023,Autobiography,Canada,37,Male,Smartphone,3 Month,199,Good,720p,14,2786,64
+63,Standard,2022,2/23/2022,10/27/2023,Autobiography,United Kingdom,41,Female,Smart TV,3 Month,499,Better,1080p,20,9980,65
+64,Standard,2022,6/20/2022,10/26/2023,Drama,Australia,29,Male,Tablet,3 Month,499,Better,1080p,16,7984,66
+65,Basic,2023,3/29/2023,7/28/2023,Biography,Germany,40,Female,Laptop,6 Month,199,Good,720p,3,597,156
+66,Premium,2022,1/30/2022,6/27/2023,Fantasy,France,29,Male,Smartphone,6 Month,649,Best,4K+HDR,16,10384,187
+67,Basic,2022,9/18/2022,7/25/2023,Romance,Brazil,47,Female,Smart TV,6 Month,199,Good,720p,10,1990,159
+68,Standard,2021,11/9/2021,9/24/2023,Drama,Mexico,33,Male,Tablet,3 Month,499,Better,1080p,22,10978,98
+69,Premium,2022,12/23/2022,12/23/2023,Science Fiction,Spain,36,Female,Laptop,1 Month,649,Best,4K+HDR,12,7788,8
+70,Basic,2023,5/8/2023,11/22/2023,Autobiography,Italy,41,Male,Smartphone,1 Month,199,Good,720p,6,1194,39
+71,Basic,2022,1/26/2022,12/20/2023,Comedy,United States,27,Male,Smartphone,1 Month,199,Good,720p,22,4378,11
+72,Basic,2022,10/11/2022,11/22/2023,Crime,Canada,31,Female,Smartphone,1 Month,199,Good,720p,13,2587,39
+73,Standard,2022,9/27/2022,11/26/2023,Action,United Kingdom,28,Female,Laptop,1 Month,499,Better,1080p,13,6487,35
+74,Premium,2022,12/14/2022,11/25/2023,Autobiography,Australia,41,Female,Smartphone,1 Month,649,Best,4K+HDR,11,7139,36
+75,Basic,2022,5/28/2022,12/26/2023,Non-Fiction,Germany,28,Female,Laptop,1 Month,199,Good,720p,18,3582,5
+76,Basic,2021,12/29/2021,9/26/2023,Science Fiction,France,51,Female,Laptop,3 Month,199,Good,720p,20,3980,96
+77,Premium,2022,12/25/2022,9/23/2023,Autobiography,Brazil,45,Female,Smartphone,3 Month,649,Best,4K+HDR,8,5192,99
+78,Standard,2022,11/18/2022,11/28/2023,Crime,Mexico,49,Male,Tablet,1 Month,499,Better,1080p,12,5988,33
+79,Standard,2022,12/3/2022,10/25/2023,Adventure,Spain,43,Female,Laptop,3 Month,499,Better,1080p,10,4990,67
+80,Basic,2022,11/8/2022,6/22/2023,Autobiography,Italy,43,Male,Tablet,6 Month,199,Good,720p,7,1393,192
+81,Premium,2023,1/11/2023,6/24/2023,Self-Help,United States,37,Male,Tablet,6 Month,649,Best,4K+HDR,5,3245,190
+82,Standard,2022,12/7/2022,7/28/2023,Self-Help,Canada,35,Male,Laptop,6 Month,499,Better,1080p,7,3493,156
+83,Basic,2022,10/20/2022,10/26/2023,Adventure,United Kingdom,46,Female,Smartphone,3 Month,199,Good,720p,12,2388,66
+84,Standard,2023,4/13/2023,7/25/2023,Comedy,Australia,32,Male,Smartphone,6 Month,499,Better,1080p,3,1497,159
+85,Premium,2023,4/6/2023,12/27/2023,Biography,Germany,37,Female,Laptop,1 Month,649,Best,4K+HDR,8,5192,4
+86,Basic,2022,3/4/2022,6/25/2023,Romance,France,29,Female,Smartphone,6 Month,199,Good,720p,15,2985,189
+87,Premium,2021,12/28/2021,10/23/2023,Non-Fiction,Brazil,45,Male,Smart TV,3 Month,649,Best,4K+HDR,21,13629,69
+88,Standard,2022,9/27/2022,12/28/2023,Action,Mexico,47,Male,Tablet,1 Month,499,Better,1080p,15,7485,3
+89,Basic,2022,10/20/2022,9/26/2023,Mystery,Spain,39,Male,Smartphone,3 Month,199,Good,720p,11,2189,96
+90,Standard,2023,2/3/2023,10/23/2023,Mystery,Italy,49,Female,Smartphone,3 Month,499,Better,1080p,8,3992,69
+91,Premium,2022,10/3/2022,9/23/2023,Historical Fiction,United States,39,Male,Tablet,3 Month,649,Best,4K+HDR,11,7139,99
+92,Basic,2022,1/5/2022,9/28/2023,Self-Help,Canada,39,Male,Smart TV,3 Month,199,Good,720p,20,3980,94
+93,Standard,2022,2/5/2022,7/26/2023,Crime,United Kingdom,35,Male,Smartphone,6 Month,499,Better,1080p,17,8483,158
+94,Premium,2022,3/19/2022,7/25/2023,Science Fiction,Australia,44,Male,Smartphone,6 Month,649,Best,4K+HDR,16,10384,159
+95,Basic,2022,2/28/2022,6/25/2023,Drama,Germany,34,Male,Laptop,6 Month,199,Good,720p,15,2985,189
+96,Premium,2022,7/26/2022,6/24/2023,Historical Fiction,France,32,Male,Laptop,6 Month,649,Best,4K+HDR,10,6490,190
+97,Basic,2022,3/5/2022,10/24/2023,Thriller,Brazil,29,Female,Tablet,3 Month,199,Good,720p,19,3781,68
+98,Standard,2022,3/7/2022,9/28/2023,Non-Fiction,Mexico,31,Female,Tablet,3 Month,499,Better,1080p,18,8982,94
+99,Standard,2023,1/13/2023,11/24/2023,Autobiography,Spain,29,Female,Tablet,1 Month,499,Better,1080p,10,4990,37
+100,Basic,2023,1/22/2023,11/25/2023,Drama,Italy,35,Male,Laptop,1 Month,199,Good,720p,10,1990,36
+101,Premium,2022,10/17/2022,9/24/2023,Comedy,United States,46,Female,Tablet,3 Month,649,Best,4K+HDR,11,7139,98
+102,Basic,2022,3/29/2022,9/28/2023,Science Fiction,Canada,31,Male,Tablet,3 Month,199,Good,720p,17,3383,94
+103,Standard,2022,4/4/2022,6/26/2023,Drama,United Kingdom,36,Male,Laptop,6 Month,499,Better,1080p,14,6986,188
+104,Premium,2022,6/8/2022,6/25/2023,Historical Fiction,Australia,38,Male,Laptop,6 Month,649,Best,4K+HDR,12,7788,189
+105,Basic,2022,3/4/2022,10/27/2023,Comedy,Germany,46,Female,Laptop,3 Month,199,Good,720p,19,3781,65
+106,Premium,2022,3/18/2022,6/24/2023,Adventure,France,49,Female,Tablet,6 Month,649,Best,4K+HDR,15,9735,190
+107,Basic,2022,3/7/2022,9/24/2023,Autobiography,Brazil,29,Female,Smart TV,3 Month,199,Good,720p,18,3582,98
+108,Standard,2022,5/24/2022,12/25/2023,Autobiography,Mexico,27,Female,Smart TV,1 Month,499,Better,1080p,19,9481,6
+109,Standard,2023,2/8/2023,12/25/2023,Thriller,Spain,35,Female,Tablet,1 Month,499,Better,1080p,10,4990,6
+110,Basic,2023,1/26/2023,6/24/2023,Drama,Italy,37,Female,Laptop,6 Month,199,Good,720p,4,796,190
+111,Premium,2022,7/14/2022,6/27/2023,Romance,United States,40,Male,Tablet,6 Month,649,Best,4K+HDR,11,7139,187
+112,Basic,2022,6/1/2022,10/28/2023,Mystery,Canada,33,Female,Laptop,3 Month,199,Good,720p,16,3184,64
+113,Standard,2022,5/7/2022,12/26/2023,Adventure,United Kingdom,37,Male,Tablet,1 Month,499,Better,1080p,19,9481,5
+114,Premium,2022,11/18/2022,10/25/2023,Horror,Australia,48,Male,Smartphone,3 Month,649,Best,4K+HDR,11,7139,67
+115,Basic,2022,4/5/2022,11/25/2023,Science Fiction,Germany,50,Female,Laptop,1 Month,199,Good,720p,19,3781,36
+116,Premium,2022,5/19/2022,12/23/2023,Historical Fiction,France,45,Female,Smart TV,1 Month,649,Best,4K+HDR,19,12331,8
+117,Basic,2021,10/30/2021,11/23/2023,Action,Brazil,40,Female,Tablet,1 Month,199,Good,720p,24,4776,38
+118,Standard,2022,8/7/2022,9/27/2023,Romance,Mexico,33,Male,Smartphone,3 Month,499,Better,1080p,13,6487,95
+119,Standard,2022,9/20/2022,11/25/2023,Drama,Spain,44,Female,Smartphone,1 Month,499,Better,1080p,14,6986,36
+120,Basic,2022,10/18/2022,7/25/2023,Autobiography,Italy,30,Female,Smart TV,6 Month,199,Good,720p,9,1791,159
+121,Premium,2022,10/3/2022,6/24/2023,Horror,United States,27,Male,Smart TV,6 Month,649,Best,4K+HDR,8,5192,190
+122,Basic,2022,5/3/2022,11/28/2023,Comedy,Canada,51,Male,Smart TV,1 Month,199,Good,720p,18,3582,33
+123,Standard,2022,5/25/2022,7/26/2023,Autobiography,United Kingdom,49,Female,Smartphone,6 Month,499,Better,1080p,14,6986,158
+124,Premium,2022,11/5/2022,6/25/2023,Biography,Australia,43,Male,Laptop,6 Month,649,Best,4K+HDR,7,4543,189
+125,Basic,2022,8/21/2022,10/24/2023,Science Fiction,Germany,42,Male,Smartphone,3 Month,199,Good,720p,14,2786,68
+126,Premium,2022,9/21/2022,10/23/2023,Comedy,France,45,Male,Laptop,3 Month,649,Best,4K+HDR,13,8437,69
+127,Basic,2021,11/23/2021,7/23/2023,Romance,Brazil,36,Male,Smartphone,6 Month,199,Good,720p,20,3980,161
+128,Standard,2022,10/6/2022,12/27/2023,Biography,Mexico,48,Male,Smartphone,1 Month,499,Better,1080p,14,6986,4
+129,Standard,2022,11/5/2022,11/23/2023,Romance,Spain,38,Male,Smart TV,1 Month,499,Better,1080p,12,5988,38
+130,Basic,2023,1/7/2023,10/23/2023,Romance,Italy,43,Female,Tablet,3 Month,199,Good,720p,9,1791,69
+131,Premium,2022,10/6/2022,10/23/2023,Science Fiction,United States,47,Male,Laptop,3 Month,649,Best,4K+HDR,12,7788,69
+132,Basic,2022,6/24/2022,6/28/2023,Thriller,Canada,48,Female,Smart TV,6 Month,199,Good,720p,12,2388,186
+133,Standard,2022,6/24/2022,10/26/2023,Horror,United Kingdom,47,Male,Smart TV,3 Month,499,Better,1080p,16,7984,66
+134,Premium,2022,11/5/2022,11/25/2023,Crime,Australia,32,Male,Tablet,1 Month,649,Best,4K+HDR,12,7788,36
+135,Basic,2022,7/18/2022,6/26/2023,Thriller,Germany,47,Female,Smart TV,6 Month,199,Good,720p,11,2189,188
+136,Premium,2022,9/13/2022,9/26/2023,Action,France,41,Female,Smart TV,3 Month,649,Best,4K+HDR,12,7788,96
+137,Basic,2022,8/10/2022,11/22/2023,Action,Brazil,49,Male,Laptop,1 Month,199,Good,720p,15,2985,39
+138,Standard,2022,9/21/2022,7/23/2023,Self-Help,Mexico,28,Male,Laptop,6 Month,499,Better,1080p,10,4990,161
+139,Standard,2023,3/24/2023,9/23/2023,Historical Fiction,Spain,40,Male,Smartphone,3 Month,499,Better,1080p,5,2495,99
+140,Basic,2022,5/2/2022,12/23/2023,Horror,Italy,43,Female,Smartphone,1 Month,199,Good,720p,19,3781,8
+141,Premium,2022,5/11/2022,6/27/2023,Autobiography,United States,42,Male,Smartphone,6 Month,649,Best,4K+HDR,13,8437,187
+142,Basic,2022,6/10/2022,6/22/2023,Non-Fiction,Canada,28,Male,Smart TV,6 Month,199,Good,720p,12,2388,192
+143,Standard,2022,8/31/2022,7/24/2023,Thriller,United Kingdom,30,Female,Tablet,6 Month,499,Better,1080p,10,4990,160
+144,Premium,2022,8/17/2022,9/26/2023,Comedy,Australia,33,Male,Smart TV,3 Month,649,Best,4K+HDR,13,8437,96
+145,Basic,2022,5/5/2022,9/26/2023,Fantasy,Germany,35,Female,Laptop,3 Month,199,Good,720p,16,3184,96
+146,Basic,2022,10/6/2022,7/25/2023,Romance,France,38,Male,Tablet,6 Month,199,Good,720p,9,1791,159
+147,Basic,2022,11/8/2022,12/24/2023,Comedy,Brazil,49,Female,Laptop,1 Month,199,Good,720p,13,2587,7
+148,Standard,2022,11/27/2022,6/28/2023,Fantasy,Mexico,39,Female,Smartphone,6 Month,499,Better,1080p,7,3493,186
+149,Premium,2022,11/17/2022,7/27/2023,Drama,Spain,46,Female,Smart TV,6 Month,649,Best,4K+HDR,8,5192,157
+150,Basic,2022,12/15/2022,11/23/2023,Action,Italy,47,Female,Laptop,1 Month,199,Good,720p,11,2189,38
+151,Basic,2022,12/12/2022,7/25/2023,Adventure,United States,30,Female,Laptop,6 Month,199,Good,720p,7,1393,159
+152,Premium,2022,11/23/2022,6/27/2023,Non-Fiction,Canada,33,Female,Tablet,6 Month,649,Best,4K+HDR,7,4543,187
+153,Standard,2022,12/25/2022,12/24/2023,Non-Fiction,United Kingdom,47,Male,Smartphone,1 Month,499,Better,1080p,11,5489,7
+154,Standard,2023,3/11/2023,11/27/2023,Biography,Australia,27,Male,Laptop,1 Month,499,Better,1080p,8,3992,34
+155,Basic,2022,11/18/2022,7/27/2023,Action,Germany,28,Male,Tablet,6 Month,199,Good,720p,8,1592,157
+156,Premium,2022,8/19/2022,12/25/2023,Drama,France,47,Male,Smartphone,1 Month,649,Best,4K+HDR,16,10384,6
+157,Standard,2022,9/27/2022,10/24/2023,Science Fiction,Brazil,30,Male,Laptop,3 Month,499,Better,1080p,12,5988,68
+158,Basic,2022,10/19/2022,11/28/2023,Mystery,Mexico,47,Female,Smartphone,1 Month,199,Good,720p,13,2587,33
+159,Standard,2022,12/21/2022,6/26/2023,Action,Spain,51,Female,Smart TV,6 Month,499,Better,1080p,6,2994,188
+160,Premium,2022,10/27/2022,12/25/2023,Self-Help,Italy,39,Male,Smartphone,1 Month,649,Best,4K+HDR,13,8437,6
+161,Basic,2022,10/23/2022,11/24/2023,Mystery,United States,45,Male,Tablet,1 Month,199,Good,720p,13,2587,37
+162,Premium,2022,4/19/2022,9/25/2023,Autobiography,Canada,31,Male,Laptop,3 Month,649,Best,4K+HDR,17,11033,97
+163,Standard,2022,4/5/2022,9/26/2023,Mystery,United Kingdom,29,Male,Laptop,3 Month,499,Better,1080p,17,8483,96
+164,Basic,2022,3/11/2022,7/26/2023,Self-Help,Australia,42,Female,Tablet,6 Month,199,Good,720p,16,3184,158
+165,Standard,2022,5/25/2022,7/25/2023,Science Fiction,Germany,49,Male,Tablet,6 Month,499,Better,1080p,14,6986,159
+166,Premium,2022,4/16/2022,9/26/2023,Crime,France,42,Male,Laptop,3 Month,649,Best,4K+HDR,17,11033,96
+167,Basic,2022,4/7/2022,6/24/2023,Comedy,Brazil,29,Male,Smartphone,6 Month,199,Good,720p,14,2786,190
+168,Standard,2022,12/11/2022,7/28/2023,Crime,Mexico,29,Male,Tablet,6 Month,499,Better,1080p,7,3493,156
+169,Premium,2023,1/20/2023,11/26/2023,Horror,Spain,49,Male,Tablet,1 Month,649,Best,4K+HDR,10,6490,35
+170,Basic,2023,1/12/2023,9/25/2023,Action,Italy,32,Male,Laptop,3 Month,199,Good,720p,8,1592,97
+171,Premium,2022,4/29/2022,7/24/2023,Science Fiction,United States,35,Female,Tablet,6 Month,649,Best,4K+HDR,14,9086,160
+172,Basic,2022,4/27/2022,9/26/2023,Action,Canada,39,Female,Smartphone,3 Month,199,Good,720p,16,3184,96
+173,Standard,2022,6/3/2022,11/25/2023,Mystery,United Kingdom,40,Male,Smartphone,1 Month,499,Better,1080p,17,8483,36
+174,Standard,2022,4/23/2022,6/25/2023,Adventure,Australia,39,Female,Tablet,6 Month,499,Better,1080p,14,6986,189
+175,Basic,2022,4/22/2022,7/26/2023,Autobiography,Germany,47,Female,Laptop,6 Month,199,Good,720p,15,2985,158
+176,Premium,2022,4/12/2022,9/25/2023,Drama,France,37,Female,Smart TV,3 Month,649,Best,4K+HDR,17,11033,97
+177,Basic,2022,5/23/2022,11/26/2023,Horror,Brazil,27,Female,Smartphone,1 Month,199,Good,720p,18,3582,35
+178,Standard,2022,10/19/2022,6/26/2023,Mystery,Mexico,49,Female,Laptop,6 Month,499,Better,1080p,8,3992,188
+179,Premium,2022,12/3/2022,9/26/2023,Autobiography,Spain,30,Female,Tablet,3 Month,649,Best,4K+HDR,9,5841,96
+180,Basic,2022,9/26/2022,6/25/2023,Mystery,Italy,36,Male,Laptop,6 Month,199,Good,720p,8,1592,189
+181,Premium,2022,6/16/2022,9/27/2023,Action,United States,33,Male,Smartphone,3 Month,649,Best,4K+HDR,15,9735,95
+182,Basic,2022,5/16/2022,11/25/2023,Fantasy,Canada,30,Female,Laptop,1 Month,199,Good,720p,18,3582,36
+183,Standard,2022,5/26/2022,10/26/2023,Thriller,United Kingdom,36,Female,Tablet,3 Month,499,Better,1080p,17,8483,66
+184,Standard,2022,4/26/2022,7/25/2023,Action,Australia,28,Female,Laptop,6 Month,499,Better,1080p,14,6986,159
+185,Basic,2022,5/12/2022,7/25/2023,Romance,Germany,47,Female,Tablet,6 Month,199,Good,720p,14,2786,159
+186,Premium,2022,3/1/2022,6/25/2023,Science Fiction,France,33,Female,Smart TV,6 Month,649,Best,4K+HDR,15,9735,189
+187,Basic,2022,7/10/2022,9/24/2023,Biography,Brazil,49,Female,Laptop,3 Month,199,Good,720p,14,2786,98
+188,Standard,2022,7/16/2022,11/27/2023,Drama,Mexico,44,Female,Smart TV,1 Month,499,Better,1080p,16,7984,34
+189,Premium,2022,9/2/2022,7/26/2023,Horror,Spain,47,Male,Smart TV,6 Month,649,Best,4K+HDR,10,6490,158
+190,Basic,2022,9/18/2022,9/26/2023,Thriller,Italy,37,Female,Tablet,3 Month,199,Good,720p,12,2388,96
+191,Premium,2022,7/8/2022,10/25/2023,Romance,United States,46,Male,Laptop,3 Month,649,Best,4K+HDR,15,9735,67
+192,Basic,2022,6/26/2022,7/27/2023,Fantasy,Canada,50,Female,Smartphone,6 Month,199,Good,720p,13,2587,157
+193,Standard,2022,8/5/2022,7/25/2023,Drama,United Kingdom,50,Male,Laptop,6 Month,499,Better,1080p,11,5489,159
+194,Standard,2022,8/19/2022,7/27/2023,Historical Fiction,Australia,37,Male,Laptop,6 Month,499,Better,1080p,11,5489,157
+195,Basic,2022,8/26/2022,6/24/2023,Romance,Germany,50,Female,Smartphone,6 Month,199,Good,720p,9,1791,190
+196,Premium,2022,6/9/2022,9/24/2023,Science Fiction,France,45,Female,Smart TV,3 Month,649,Best,4K+HDR,15,9735,98
+197,Basic,2022,9/27/2022,9/23/2023,Adventure,Brazil,45,Male,Tablet,3 Month,199,Good,720p,11,2189,99
+198,Standard,2022,10/18/2022,10/27/2023,Mystery,Mexico,49,Female,Laptop,3 Month,499,Better,1080p,12,5988,65
+199,Premium,2022,10/31/2022,12/25/2023,Thriller,Spain,39,Female,Tablet,1 Month,649,Best,4K+HDR,13,8437,6
+200,Basic,2022,10/13/2022,9/25/2023,Science Fiction,Italy,45,Female,Tablet,3 Month,199,Good,720p,11,2189,97
+201,Premium,2022,7/4/2022,9/27/2023,Thriller,United States,49,Female,Smart TV,3 Month,649,Best,4K+HDR,14,9086,95
+202,Basic,2022,6/26/2022,11/27/2023,Drama,Canada,31,Female,Tablet,1 Month,199,Good,720p,17,3383,34
+203,Standard,2022,7/31/2022,6/24/2023,Crime,United Kingdom,42,Female,Smart TV,6 Month,499,Better,1080p,10,4990,190
+204,Standard,2022,7/27/2022,9/24/2023,Drama,Australia,37,Male,Smartphone,3 Month,499,Better,1080p,13,6487,98
+205,Basic,2022,7/30/2022,12/25/2023,Thriller,Germany,30,Male,Smart TV,1 Month,199,Good,720p,16,3184,6
+206,Premium,2022,8/6/2022,11/25/2023,Mystery,France,40,Male,Smartphone,1 Month,649,Best,4K+HDR,15,9735,36
+207,Basic,2022,9/16/2022,12/24/2023,Mystery,Brazil,45,Female,Smartphone,1 Month,199,Good,720p,15,2985,7
+208,Standard,2023,1/5/2023,11/23/2023,Science Fiction,Mexico,36,Female,Tablet,1 Month,499,Better,1080p,10,4990,38
+209,Premium,2022,12/10/2022,10/24/2023,Romance,Spain,41,Male,Laptop,3 Month,649,Best,4K+HDR,10,6490,68
+210,Basic,2022,11/22/2022,11/26/2023,Drama,Italy,49,Female,Laptop,1 Month,199,Good,720p,12,2388,35
+211,Premium,2022,11/15/2022,11/27/2023,Fantasy,United States,40,Male,Tablet,1 Month,649,Best,4K+HDR,12,7788,34
+212,Basic,2022,10/28/2022,11/26/2023,Comedy,Canada,36,Male,Smart TV,1 Month,199,Good,720p,12,2388,35
+213,Standard,2022,9/8/2022,12/24/2023,Autobiography,United Kingdom,49,Female,Smart TV,1 Month,499,Better,1080p,15,7485,7
+214,Standard,2022,6/30/2022,12/28/2023,Self-Help,Australia,43,Female,Laptop,1 Month,499,Better,1080p,17,8483,3
+215,Basic,2022,9/2/2022,6/27/2023,Mystery,Germany,50,Female,Smartphone,6 Month,199,Good,720p,9,1791,187
+216,Premium,2022,10/8/2022,10/24/2023,Fantasy,France,51,Female,Smart TV,3 Month,649,Best,4K+HDR,12,7788,68
+217,Basic,2022,11/13/2022,12/25/2023,Horror,Brazil,44,Male,Smart TV,1 Month,199,Good,720p,13,2587,6
+218,Standard,2022,11/15/2022,10/28/2023,Drama,Mexico,27,Male,Tablet,3 Month,499,Better,1080p,11,5489,64
+219,Premium,2022,11/16/2022,9/25/2023,Mystery,Spain,46,Female,Smartphone,3 Month,649,Best,4K+HDR,10,6490,97
+222,Basic,2022,12/12/2022,9/26/2023,Biography,Canada,48,Female,Smartphone,3 Month,199,Good,720p,9,1791,96
+223,Standard,2023,2/7/2023,12/25/2023,Mystery,United Kingdom,34,Female,Smartphone,1 Month,499,Better,1080p,10,4990,6
+225,Basic,2022,11/10/2022,7/27/2023,Comedy,Germany,48,Female,Smartphone,6 Month,199,Good,720p,8,1592,157
+228,Standard,2022,4/11/2022,12/27/2023,Drama,Mexico,39,Male,Smart TV,1 Month,499,Better,1080p,20,9980,4
+229,Standard,2022,4/11/2022,7/27/2023,Horror,Spain,29,Male,Smartphone,6 Month,499,Better,1080p,15,7485,157
+233,Basic,2022,7/7/2022,9/26/2023,Comedy,United Kingdom,50,Female,Smart TV,3 Month,199,Good,720p,14,2786,96
+236,Basic,2022,8/5/2022,10/26/2023,Adventure,France,39,Female,Smartphone,3 Month,199,Good,720p,14,2786,66
+237,Premium,2022,7/7/2022,11/25/2023,Comedy,Brazil,46,Female,Tablet,1 Month,649,Best,4K+HDR,16,10384,36
+242,Basic,2022,2/6/2022,9/26/2023,Drama,Canada,37,Male,Laptop,3 Month,199,Good,720p,19,3781,96
+246,Premium,2022,3/5/2022,11/25/2023,Drama,France,38,Female,Smartphone,1 Month,649,Best,4K+HDR,20,12980,36
+247,Basic,2022,7/7/2022,12/27/2023,Crime,Brazil,27,Male,Smart TV,1 Month,199,Good,720p,17,3383,4
+250,Basic,2022,9/8/2022,6/26/2023,Autobiography,Italy,28,Male,Laptop,6 Month,199,Good,720p,9,1791,188
+259,Standard,2022,5/8/2022,6/26/2023,Drama,Spain,28,Male,Smartphone,6 Month,499,Better,1080p,13,6487,188
+261,Premium,2022,4/7/2022,10/25/2023,Romance,United States,27,Female,Smart TV,3 Month,649,Best,4K+HDR,18,11682,67
+264,Premium,2022,9/8/2022,11/27/2023,Comedy,Australia,51,Male,Smartphone,1 Month,649,Best,4K+HDR,14,9086,34
+265,Basic,2022,5/8/2022,6/25/2023,Non-Fiction,Germany,32,Female,Smart TV,6 Month,199,Good,720p,13,2587,189
+267,Basic,2022,8/9/2022,12/27/2023,Romance,Brazil,44,Female,Laptop,1 Month,199,Good,720p,16,3184,4
+270,Basic,2022,4/9/2022,10/25/2023,Drama,Italy,47,Male,Smart TV,3 Month,199,Good,720p,18,3582,67
+272,Basic,2022,10/8/2022,11/26/2023,Crime,Canada,36,Female,Smartphone,1 Month,199,Good,720p,13,2587,35
+273,Standard,2022,2/8/2022,9/25/2023,Action,United Kingdom,28,Female,Laptop,3 Month,499,Better,1080p,19,9481,97
+274,Premium,2022,1/8/2022,9/24/2023,Autobiography,Australia,27,Female,Tablet,3 Month,649,Best,4K+HDR,20,12980,98
+275,Basic,2022,6/8/2022,6/25/2023,Horror,Germany,34,Female,Laptop,6 Month,199,Good,720p,12,2388,189
+276,Premium,2022,9/8/2022,11/25/2023,Historical Fiction,France,34,Female,Smart TV,1 Month,649,Best,4K+HDR,14,9086,36
+277,Basic,2022,12/9/2022,10/26/2023,Non-Fiction,Brazil,37,Female,Tablet,3 Month,199,Good,720p,10,1990,66
+279,Standard,2022,12/11/2022,7/24/2023,Drama,Spain,50,Female,Laptop,6 Month,499,Better,1080p,7,3493,160
+281,Premium,2022,2/11/2022,10/28/2023,Drama,United States,33,Female,Smart TV,3 Month,649,Best,4K+HDR,20,12980,64
+284,Premium,2022,4/8/2022,10/28/2023,Science Fiction,Australia,39,Female,Smartphone,3 Month,649,Best,4K+HDR,18,11682,64
+285,Basic,2022,1/9/2022,9/27/2023,Autobiography,Germany,42,Female,Laptop,3 Month,199,Good,720p,20,3980,95
+291,Premium,2022,4/12/2022,10/27/2023,Romance,United States,29,Female,Tablet,3 Month,649,Best,4K+HDR,18,11682,65
+292,Basic,2022,12/12/2022,6/27/2023,Non-Fiction,Canada,43,Female,Laptop,6 Month,199,Good,720p,6,1194,187
+293,Standard,2022,9/12/2022,6/25/2023,Adventure,United Kingdom,39,Female,Laptop,6 Month,499,Better,1080p,9,4491,189
+295,Basic,2022,3/10/2022,9/27/2023,Autobiography,Germany,45,Male,Laptop,3 Month,199,Good,720p,18,3582,95
+296,Basic,2022,1/10/2022,7/27/2023,Action,France,48,Female,Tablet,6 Month,199,Good,720p,18,3582,157
+297,Basic,2022,2/11/2022,12/24/2023,Crime,Brazil,40,Male,Smartphone,1 Month,199,Good,720p,22,4378,7
+298,Standard,2022,3/11/2022,10/27/2023,Biography,Mexico,41,Male,Tablet,3 Month,499,Better,1080p,19,9481,65
+303,Standard,2022,11/6/2022,6/26/2023,Non-Fiction,United Kingdom,45,Male,Tablet,6 Month,499,Better,1080p,7,3493,188
+304,Standard,2022,11/6/2022,9/29/2023,Non-Fiction,Australia,33,Female,Smartphone,3 Month,499,Better,1080p,10,4990,93
+306,Premium,2022,6/7/2022,7/27/2023,Adventure,France,45,Male,Tablet,6 Month,649,Best,4K+HDR,13,8437,157
+307,Standard,2022,8/7/2022,10/28/2023,Science Fiction,Brazil,29,Female,Smart TV,3 Month,499,Better,1080p,14,6986,64
+309,Standard,2022,9/8/2022,12/28/2023,Mystery,Spain,31,Male,Smartphone,1 Month,499,Better,1080p,15,7485,3
+311,Basic,2022,7/6/2022,12/27/2023,Non-Fiction,United States,29,Female,Smartphone,1 Month,199,Good,720p,17,3383,4
+318,Standard,2022,2/9/2022,10/27/2023,Historical Fiction,Mexico,39,Female,Laptop,3 Month,499,Better,1080p,20,9980,65
+320,Basic,2022,2/8/2022,6/27/2023,Science Fiction,Italy,30,Female,Laptop,6 Month,199,Good,720p,16,3184,187
+322,Basic,2022,4/6/2022,11/27/2023,Action,Canada,44,Male,Smartphone,1 Month,199,Good,720p,19,3781,34
+326,Premium,2022,11/6/2022,10/27/2023,Historical Fiction,France,30,Male,Smartphone,3 Month,649,Best,4K+HDR,11,7139,65
+327,Basic,2022,6/7/2022,11/26/2023,Thriller,Brazil,32,Female,Smartphone,1 Month,199,Good,720p,17,3383,35
+330,Basic,2022,6/7/2022,9/26/2023,Crime,Italy,40,Female,Smart TV,3 Month,199,Good,720p,15,2985,96
+331,Premium,2022,8/7/2022,6/26/2023,Autobiography,United States,29,Female,Tablet,6 Month,649,Best,4K+HDR,10,6490,188
+335,Basic,2022,11/8/2022,9/25/2023,Action,Germany,47,Female,Tablet,3 Month,199,Good,720p,10,1990,97
+336,Premium,2022,2/9/2022,10/26/2023,Drama,France,35,Male,Laptop,3 Month,649,Best,4K+HDR,20,12980,66
+337,Basic,2022,11/10/2022,10/27/2023,Mystery,Brazil,36,Male,Laptop,3 Month,199,Good,720p,11,2189,65
+339,Premium,2022,5/10/2022,11/25/2023,Non-Fiction,Spain,30,Female,Laptop,1 Month,649,Best,4K+HDR,18,11682,36
+342,Basic,2022,9/8/2022,12/26/2023,Biography,Canada,41,Female,Laptop,1 Month,199,Good,720p,15,2985,5
+343,Standard,2022,6/8/2022,12/25/2023,Crime,United Kingdom,46,Male,Smart TV,1 Month,499,Better,1080p,18,8982,6
+344,Standard,2022,7/8/2022,11/26/2023,Fantasy,Australia,42,Female,Smartphone,1 Month,499,Better,1080p,16,7984,35
+345,Basic,2022,8/8/2022,11/25/2023,Self-Help,Germany,48,Female,Smart TV,1 Month,199,Good,720p,15,2985,36
+348,Standard,2022,5/10/2022,10/26/2023,Horror,Mexico,30,Male,Smart TV,3 Month,499,Better,1080p,17,8483,66
+349,Premium,2022,2/11/2022,10/26/2023,Thriller,Spain,28,Male,Smartphone,3 Month,649,Best,4K+HDR,20,12980,66
+350,Basic,2022,2/11/2022,11/28/2023,Thriller,Italy,44,Female,Smartphone,1 Month,199,Good,720p,21,4179,33
+351,Premium,2022,2/11/2022,10/28/2023,Self-Help,United States,34,Female,Smart TV,3 Month,649,Best,4K+HDR,20,12980,64
+353,Standard,2022,10/8/2022,7/26/2023,Science Fiction,United Kingdom,34,Female,Smartphone,6 Month,499,Better,1080p,9,4491,158
+355,Basic,2022,12/10/2022,6/27/2023,Romance,Germany,32,Female,Tablet,6 Month,199,Good,720p,6,1194,187
+358,Standard,2022,11/11/2022,7/28/2023,Action,Mexico,34,Female,Smart TV,6 Month,499,Better,1080p,8,3992,156
+362,Basic,2022,8/12/2022,12/27/2023,Crime,Canada,31,Male,Laptop,1 Month,199,Good,720p,16,3184,4
+363,Standard,2022,1/11/2022,12/25/2023,Fantasy,United Kingdom,47,Female,Smart TV,1 Month,499,Better,1080p,23,11477,6
+364,Standard,2022,12/10/2022,9/29/2023,Horror,Australia,48,Male,Smart TV,3 Month,499,Better,1080p,9,4491,93
+372,Basic,2022,6/9/2022,7/27/2023,Thriller,Canada,31,Female,Tablet,6 Month,199,Good,720p,13,2587,157
+374,Premium,2022,12/6/2022,9/28/2023,Non-Fiction,Australia,39,Female,Laptop,3 Month,649,Best,4K+HDR,9,5841,94
+379,Standard,2022,12/8/2022,11/28/2023,Thriller,Spain,46,Female,Smart TV,1 Month,499,Better,1080p,11,5489,33
+380,Basic,2022,5/8/2022,10/27/2023,Horror,Italy,27,Female,Smart TV,3 Month,199,Good,720p,17,3383,65
+382,Standard,2022,7/6/2022,10/26/2023,Fantasy,Canada,51,Male,Smart TV,3 Month,499,Better,1080p,15,7485,66
+383,Basic,2022,1/6/2022,10/27/2023,Thriller,United Kingdom,49,Male,Smart TV,3 Month,199,Good,720p,21,4179,65
+386,Basic,2022,11/7/2022,6/26/2023,Biography,France,48,Male,Tablet,6 Month,199,Good,720p,7,1393,188
+389,Basic,2022,2/8/2022,6/26/2023,Mystery,Spain,45,Male,Smart TV,6 Month,199,Good,720p,16,3184,188
+390,Standard,2022,3/7/2022,12/28/2023,Horror,Italy,43,Female,Laptop,1 Month,499,Better,1080p,21,10479,3
+392,Basic,2022,3/6/2022,11/28/2023,Horror,Canada,28,Male,Smart TV,1 Month,199,Good,720p,20,3980,33
+393,Standard,2022,3/6/2022,10/26/2023,Fantasy,United Kingdom,40,Male,Tablet,3 Month,499,Better,1080p,19,9481,66
+395,Basic,2022,5/6/2022,6/26/2023,Mystery,Germany,45,Female,Laptop,6 Month,199,Good,720p,13,2587,188
+396,Premium,2022,10/6/2022,12/27/2023,Crime,France,30,Female,Smartphone,1 Month,649,Best,4K+HDR,14,9086,4
+404,Premium,2022,1/8/2022,7/28/2023,Action,Australia,28,Male,Smartphone,6 Month,649,Best,4K+HDR,18,11682,156
+405,Basic,2022,6/8/2022,12/26/2023,Non-Fiction,Germany,49,Female,Tablet,1 Month,199,Good,720p,18,3582,5
+410,Basic,2022,2/9/2022,11/25/2023,Thriller,Italy,37,Male,Smart TV,1 Month,199,Good,720p,21,4179,36
+411,Premium,2022,3/9/2022,11/26/2023,Horror,United States,48,Female,Tablet,1 Month,649,Best,4K+HDR,20,12980,35
+412,Basic,2022,3/9/2022,9/26/2023,Science Fiction,Canada,47,Male,Laptop,3 Month,199,Good,720p,18,3582,96
+416,Premium,2022,2/9/2022,6/26/2023,Fantasy,France,28,Male,Tablet,6 Month,649,Best,4K+HDR,16,10384,188
+420,Basic,2022,2/11/2022,9/28/2023,Crime,Italy,28,Male,Laptop,3 Month,199,Good,720p,19,3781,94
+423,Standard,2022,12/9/2022,12/27/2023,Drama,United Kingdom,41,Male,Smartphone,1 Month,499,Better,1080p,12,5988,4
+425,Basic,2022,4/10/2022,12/27/2023,Mystery,Germany,38,Male,Tablet,1 Month,199,Good,720p,20,3980,4
+426,Premium,2022,5/10/2022,12/28/2023,Historical Fiction,France,35,Male,Laptop,1 Month,649,Best,4K+HDR,19,12331,3
+427,Basic,2022,6/11/2022,12/26/2023,Thriller,Brazil,51,Male,Smart TV,1 Month,199,Good,720p,18,3582,5
+431,Premium,2022,4/12/2022,7/28/2023,Non-Fiction,United States,28,Male,Smart TV,6 Month,649,Best,4K+HDR,15,9735,156
+433,Standard,2022,6/11/2022,10/25/2023,Fantasy,United Kingdom,46,Female,Smartphone,3 Month,499,Better,1080p,16,7984,67
+440,Basic,2022,10/10/2022,11/29/2023,Autobiography,Italy,47,Male,Tablet,1 Month,199,Good,720p,13,2587,32
+441,Premium,2022,5/10/2022,10/28/2023,Adventure,United States,48,Female,Laptop,3 Month,649,Best,4K+HDR,17,11033,64
+442,Basic,2022,1/7/2022,6/27/2023,Fantasy,Canada,30,Female,Laptop,6 Month,199,Good,720p,17,3383,187
+443,Standard,2022,1/7/2022,9/27/2023,Thriller,United Kingdom,36,Male,Smart TV,3 Month,499,Better,1080p,20,9980,95
+447,Basic,2022,11/8/2022,6/28/2023,Biography,Brazil,36,Female,Laptop,6 Month,199,Good,720p,7,1393,186
+448,Standard,2022,12/8/2022,10/27/2023,Science Fiction,Mexico,48,Male,Tablet,3 Month,499,Better,1080p,10,4990,65
+449,Premium,2022,7/8/2022,10/28/2023,Autobiography,Spain,37,Female,Laptop,3 Month,649,Best,4K+HDR,15,9735,64
+450,Basic,2022,6/8/2022,6/27/2023,Thriller,Italy,49,Male,Laptop,6 Month,199,Good,720p,12,2388,187
+456,Premium,2022,4/6/2022,11/27/2023,Romance,France,41,Male,Tablet,1 Month,649,Best,4K+HDR,19,12331,34
+462,Premium,2022,10/6/2022,7/28/2023,Romance,Canada,45,Male,Smartphone,6 Month,649,Best,4K+HDR,9,5841,156
+463,Standard,2022,1/6/2022,9/26/2023,Thriller,United Kingdom,40,Male,Smart TV,3 Month,499,Better,1080p,20,9980,96
+464,Basic,2022,3/6/2022,6/28/2023,Mystery,Australia,45,Male,Laptop,6 Month,199,Good,720p,15,2985,186
+465,Standard,2022,5/6/2022,7/26/2023,Horror,Germany,34,Male,Laptop,6 Month,499,Better,1080p,14,6986,158
+466,Premium,2022,7/6/2022,11/27/2023,Non-Fiction,France,33,Male,Laptop,1 Month,649,Best,4K+HDR,16,10384,34
+470,Basic,2022,3/7/2022,11/28/2023,Self-Help,Italy,31,Female,Tablet,1 Month,199,Good,720p,20,3980,33
+471,Premium,2022,8/7/2022,11/27/2023,Horror,United States,43,Male,Tablet,1 Month,649,Best,4K+HDR,15,9735,34
+478,Standard,2022,8/9/2022,10/27/2023,Mystery,Mexico,32,Male,Laptop,3 Month,499,Better,1080p,14,6986,65
+479,Premium,2022,4/9/2022,11/27/2023,Comedy,Spain,38,Female,Smartphone,1 Month,649,Best,4K+HDR,19,12331,34
+480,Basic,2022,4/9/2022,11/27/2023,Comedy,Italy,37,Female,Laptop,1 Month,199,Good,720p,19,3781,34
+481,Premium,2022,4/9/2022,12/26/2023,Adventure,United States,36,Male,Smart TV,1 Month,649,Best,4K+HDR,20,12980,5
+485,Basic,2022,1/9/2022,11/28/2023,Science Fiction,Germany,28,Female,Tablet,1 Month,199,Good,720p,22,4378,33
+487,Basic,2022,5/10/2022,11/29/2023,Historical Fiction,Brazil,30,Male,Smart TV,1 Month,199,Good,720p,18,3582,32
+488,Standard,2022,8/10/2022,7/28/2023,Thriller,Mexico,33,Female,Smart TV,6 Month,499,Better,1080p,11,5489,156
+491,Premium,2022,7/10/2022,10/28/2023,Drama,United States,28,Female,Smartphone,3 Month,649,Best,4K+HDR,15,9735,64
+497,Basic,2022,9/11/2022,12/29/2023,Romance,Brazil,44,Male,Smartphone,1 Month,199,Good,720p,15,2985,2
+503,Standard,2022,10/11/2022,12/26/2023,Self-Help,United States,30,Male,Tablet,1 Month,499,Better,1080p,14,6986,5
+510,Basic,2022,6/10/2022,11/29/2023,Action,Germany,43,Female,Tablet,1 Month,199,Good,720p,17,3383,32
+513,Standard,2022,6/7/2022,6/28/2023,Historical Fiction,Mexico,50,Male,Tablet,6 Month,499,Better,1080p,12,5988,186
+514,Standard,2022,7/7/2022,12/28/2023,Autobiography,Spain,35,Male,Tablet,1 Month,499,Better,1080p,17,8483,3
+515,Basic,2022,1/7/2022,11/29/2023,Self-Help,Italy,44,Female,Laptop,1 Month,199,Good,720p,22,4378,32
+517,Basic,2022,6/8/2022,7/28/2023,Thriller,Spain,34,Female,Smart TV,6 Month,199,Good,720p,13,2587,156
+518,Standard,2022,7/8/2022,7/27/2023,Comedy,United States,37,Female,Tablet,6 Month,499,Better,1080p,12,5988,157
+519,Premium,2022,6/8/2022,6/28/2023,Fantasy,Canada,43,Male,Smartphone,6 Month,649,Best,4K+HDR,12,7788,186
+520,Basic,2022,3/8/2022,10/28/2023,Drama,United States,32,Male,Smart TV,3 Month,199,Good,720p,19,3781,64
+523,Standard,2022,7/6/2022,10/29/2023,Thriller,United Kingdom,41,Male,Smartphone,3 Month,499,Better,1080p,15,7485,63
+524,Premium,2022,6/6/2022,6/28/2023,Science Fiction,Australia,31,Male,Tablet,6 Month,649,Best,4K+HDR,12,7788,186
+525,Basic,2022,4/6/2022,10/27/2023,Science Fiction,Germany,44,Male,Tablet,3 Month,199,Good,720p,18,3582,65
+527,Premium,2022,10/7/2022,12/28/2023,Drama,Brazil,48,Female,Tablet,1 Month,649,Best,4K+HDR,14,9086,3
+529,Standard,2022,7/7/2022,12/27/2023,Adventure,Spain,50,Female,Laptop,1 Month,499,Better,1080p,17,8483,4
+532,Standard,2022,3/6/2022,9/28/2023,Biography,Spain,38,Male,Laptop,3 Month,499,Better,1080p,18,8982,94
+533,Basic,2022,4/6/2022,9/27/2023,Historical Fiction,United States,38,Male,Smartphone,3 Month,199,Good,720p,17,3383,95
+534,Standard,2022,5/6/2022,6/28/2023,Comedy,Canada,39,Female,Smart TV,6 Month,499,Better,1080p,13,6487,186
+535,Premium,2022,7/6/2022,6/29/2023,Comedy,United States,42,Female,Laptop,6 Month,649,Best,4K+HDR,11,7139,185
+539,Basic,2022,2/7/2022,10/29/2023,Adventure,Australia,30,Female,Tablet,3 Month,199,Good,720p,20,3980,63
+540,Standard,2022,3/7/2022,12/29/2023,Thriller,Germany,40,Male,Smartphone,1 Month,499,Better,1080p,21,10479,2
+544,Premium,2022,8/8/2022,6/28/2023,Action,Spain,49,Male,Tablet,6 Month,649,Best,4K+HDR,10,6490,186
+547,Basic,2022,5/9/2022,10/27/2023,Adventure,Spain,39,Male,Tablet,3 Month,199,Good,720p,17,3383,65
+548,Standard,2022,5/9/2022,10/27/2023,Romance,United States,51,Female,Smartphone,3 Month,499,Better,1080p,17,8483,65
+549,Standard,2022,5/9/2022,6/27/2023,Comedy,Canada,38,Female,Smartphone,6 Month,499,Better,1080p,13,6487,187
+550,Basic,2022,6/9/2022,12/27/2023,Thriller,United States,29,Female,Tablet,1 Month,199,Good,720p,18,3582,4
+551,Premium,2022,3/9/2022,6/28/2023,Drama,United States,41,Female,Laptop,6 Month,649,Best,4K+HDR,15,9735,186
+557,Basic,2022,5/10/2022,9/29/2023,Self-Help,Brazil,37,Male,Smartphone,3 Month,199,Good,720p,16,3184,93
+566,Premium,2022,11/10/2022,11/1/2023,Crime,United States,45,Male,Tablet,1 Month,649,Best,4K+HDR,11,7139,60
+567,Basic,2022,8/11/2022,7/29/2023,Drama,Canada,36,Male,Smart TV,6 Month,199,Good,720p,11,2189,155
+580,Basic,2022,9/8/2022,12/29/2023,Autobiography,United States,46,Female,Tablet,1 Month,199,Good,720p,15,2985,2
+581,Premium,2022,2/8/2022,6/29/2023,Non-Fiction,United States,29,Female,Laptop,6 Month,649,Best,4K+HDR,16,10384,185
+586,Premium,2022,6/8/2022,12/29/2023,Non-Fiction,France,51,Female,Laptop,1 Month,649,Best,4K+HDR,18,11682,2
+587,Basic,2022,7/8/2022,12/28/2023,Biography,Brazil,39,Male,Smart TV,1 Month,199,Good,720p,17,3383,3
+588,Standard,2022,7/8/2022,10/27/2023,Biography,Mexico,31,Male,Smartphone,3 Month,499,Better,1080p,15,7485,65
+589,Standard,2022,4/8/2022,9/29/2023,Historical Fiction,Spain,28,Male,Laptop,3 Month,499,Better,1080p,17,8483,93
+592,Basic,2022,9/6/2022,9/29/2023,Mystery,Spain,33,Male,Smartphone,3 Month,199,Good,720p,12,2388,93
+593,Standard,2022,6/6/2022,12/29/2023,Self-Help,United States,41,Male,Smartphone,1 Month,499,Better,1080p,18,8982,2
+594,Premium,2022,6/6/2022,6/22/2023,Self-Help,Canada,38,Female,Smart TV,6 Month,649,Best,4K+HDR,12,7788,192
+595,Basic,2022,11/6/2022,6/28/2023,Non-Fiction,United States,49,Male,Laptop,6 Month,199,Good,720p,7,1393,186
+598,Standard,2022,5/7/2022,10/29/2023,Comedy,United Kingdom,29,Female,Tablet,3 Month,499,Better,1080p,17,8483,63
+599,Premium,2022,6/7/2022,12/27/2023,Historical Fiction,Australia,44,Male,Smart TV,1 Month,649,Best,4K+HDR,18,11682,4
+601,Basic,2022,5/6/2022,7/4/2023,Self-Help,France,46,Female,Smart TV,6 Month,199,Good,720p,13,2587,180
+602,Premium,2022,5/6/2022,9/29/2023,Mystery,Brazil,30,Male,Smartphone,3 Month,649,Best,4K+HDR,16,10384,93
+603,Standard,2022,6/6/2022,7/27/2023,Non-Fiction,Mexico,46,Female,Tablet,6 Month,499,Better,1080p,13,6487,157
+604,Standard,2022,7/6/2022,11/28/2023,Non-Fiction,Spain,33,Male,Smartphone,1 Month,499,Better,1080p,16,7984,33
+605,Basic,2022,10/6/2022,9/29/2023,Biography,Italy,46,Female,Tablet,3 Month,199,Good,720p,11,2189,93
+609,Standard,2022,3/7/2022,7/29/2023,Crime,Canada,50,Female,Smartphone,6 Month,499,Better,1080p,16,7984,155
+610,Premium,2022,5/7/2022,10/29/2023,Autobiography,United States,28,Female,Tablet,3 Month,649,Best,4K+HDR,17,11033,63
+611,Basic,2022,11/7/2022,12/28/2023,Fantasy,United States,29,Female,Smartphone,1 Month,199,Good,720p,13,2587,3
+616,Premium,2022,2/9/2022,11/27/2023,Non-Fiction,France,38,Female,Laptop,1 Month,649,Best,4K+HDR,21,13629,34
+617,Basic,2022,5/9/2022,12/28/2023,Biography,Brazil,45,Female,Smartphone,1 Month,199,Good,720p,19,3781,3
+618,Standard,2022,6/9/2022,10/28/2023,Adventure,Mexico,28,Female,Smart TV,3 Month,499,Better,1080p,16,7984,64
+619,Premium,2022,6/9/2022,7/29/2023,Autobiography,Spain,27,Male,Smartphone,6 Month,649,Best,4K+HDR,13,8437,155
+620,Basic,2022,5/9/2022,10/27/2023,Historical Fiction,Italy,41,Female,Smartphone,3 Month,199,Good,720p,17,3383,65
+621,Premium,2022,6/9/2022,9/29/2023,Romance,Spain,49,Male,Smart TV,3 Month,649,Best,4K+HDR,15,9735,93
+624,Standard,2022,2/9/2022,10/6/2023,Non-Fiction,Canada,42,Male,Smartphone,3 Month,499,Better,1080p,19,9481,86
+628,Standard,2022,9/10/2022,12/1/2023,Horror,United Kingdom,42,Male,Smartphone,1 Month,499,Better,1080p,14,6986,30
+629,Premium,2022,12/10/2022,6/29/2023,Fantasy,Australia,39,Male,Tablet,6 Month,649,Best,4K+HDR,6,3894,185
+630,Basic,2022,6/10/2022,12/2/2023,Mystery,Germany,32,Female,Smart TV,1 Month,199,Good,720p,17,3383,29
+635,Basic,2022,3/10/2022,12/27/2023,Romance,Italy,29,Male,Laptop,1 Month,199,Good,720p,21,4179,4
+657,Basic,2022,3/8/2022,9/29/2023,Self-Help,Canada,34,Female,Smart TV,3 Month,199,Good,720p,18,3582,93
+658,Standard,2022,4/8/2022,12/29/2023,Mystery,United Kingdom,49,Female,Smart TV,1 Month,499,Better,1080p,20,9980,2
+659,Premium,2022,3/8/2022,7/29/2023,Horror,Australia,41,Male,Laptop,6 Month,649,Best,4K+HDR,16,10384,155
+664,Standard,2022,12/6/2022,7/4/2023,Science Fiction,Spain,31,Male,Smart TV,6 Month,499,Better,1080p,6,2994,180
+668,Standard,2022,3/7/2022,11/17/2023,Crime,United States,49,Male,Smart TV,1 Month,499,Better,1080p,20,9980,44
+670,Basic,2022,8/6/2022,6/29/2023,Biography,United States,38,Male,Smart TV,6 Month,199,Good,720p,10,1990,185
+671,Basic,2022,8/6/2022,11/3/2023,Fantasy,United States,51,Male,Tablet,3 Month,199,Good,720p,14,2786,58
+672,Basic,2022,9/6/2022,9/23/2023,Comedy,Canada,47,Female,Tablet,3 Month,199,Good,720p,12,2388,99
+673,Standard,2022,9/6/2022,9/27/2023,Mystery,United Kingdom,37,Male,Smartphone,3 Month,499,Better,1080p,12,5988,95
+674,Premium,2022,10/6/2022,11/28/2023,Autobiography,Australia,37,Female,Laptop,1 Month,649,Best,4K+HDR,13,8437,33
+675,Basic,2022,11/6/2022,12/29/2023,Non-Fiction,Germany,39,Female,Tablet,1 Month,199,Good,720p,13,2587,2
+679,Standard,2022,5/7/2022,6/29/2023,Horror,Spain,49,Male,Laptop,6 Month,499,Better,1080p,13,6487,185
+680,Basic,2022,7/7/2022,7/29/2023,Comedy,Italy,44,Female,Laptop,6 Month,199,Good,720p,12,2388,155
+683,Basic,2022,3/8/2022,9/29/2023,Mystery,United States,39,Male,Smartphone,3 Month,199,Good,720p,18,3582,93
+684,Standard,2022,11/8/2022,6/29/2023,Horror,Canada,49,Male,Smartphone,6 Month,499,Better,1080p,7,3493,185
+688,Standard,2022,3/9/2022,7/28/2023,Drama,United Kingdom,42,Male,Smartphone,6 Month,499,Better,1080p,16,7984,156
+689,Basic,2022,4/9/2022,12/29/2023,Romance,Australia,37,Female,Smart TV,1 Month,199,Good,720p,20,3980,2
+690,Standard,2022,5/9/2022,10/27/2023,Horror,Germany,36,Male,Laptop,3 Month,499,Better,1080p,17,8483,65
+691,Premium,2022,1/9/2022,7/29/2023,Autobiography,France,28,Female,Laptop,6 Month,649,Best,4K+HDR,18,11682,155
+693,Standard,2022,1/9/2022,6/29/2023,Adventure,Mexico,31,Female,Tablet,6 Month,499,Better,1080p,17,8483,185
+697,Basic,2022,6/10/2022,7/29/2023,Fantasy,Spain,43,Male,Smart TV,6 Month,199,Good,720p,13,2587,155
+698,Standard,2022,12/10/2022,7/2/2023,Autobiography,United States,28,Male,Laptop,6 Month,499,Better,1080p,6,2994,182
+699,Standard,2022,7/10/2022,11/17/2023,Self-Help,Canada,32,Female,Smartphone,1 Month,499,Better,1080p,16,7984,44
+700,Basic,2022,4/10/2022,6/14/2023,Crime,United States,31,Female,Laptop,6 Month,199,Good,720p,14,2786,200
+705,Basic,2022,4/10/2022,6/28/2023,Autobiography,Germany,32,Male,Laptop,6 Month,199,Good,720p,14,2786,186
+708,Standard,2022,2/11/2022,10/1/2023,Autobiography,Mexico,39,Male,Laptop,3 Month,499,Better,1080p,19,9481,91
+709,Standard,2022,7/11/2022,11/28/2023,Drama,Spain,48,Female,Smart TV,1 Month,499,Better,1080p,16,7984,33
+710,Basic,2022,10/11/2022,11/14/2023,Thriller,Italy,48,Female,Smart TV,1 Month,199,Good,720p,13,2587,47
+712,Basic,2022,8/11/2022,10/1/2023,Mystery,Spain,45,Male,Tablet,3 Month,199,Good,720p,13,2587,91
+713,Standard,2022,1/11/2022,11/27/2023,Horror,United States,30,Male,Laptop,1 Month,499,Better,1080p,22,10978,34
+719,Standard,2022,3/9/2022,12/29/2023,Self-Help,Australia,33,Female,Tablet,1 Month,499,Better,1080p,21,10479,2
+722,Basic,2022,11/8/2022,10/4/2023,Adventure,Brazil,45,Male,Smartphone,3 Month,199,Good,720p,10,1990,88
+723,Standard,2022,1/8/2022,7/5/2023,Fantasy,Mexico,40,Female,Smartphone,6 Month,499,Better,1080p,17,8483,179
+724,Premium,2022,1/8/2022,7/29/2023,Mystery,Spain,44,Male,Laptop,6 Month,649,Best,4K+HDR,18,11682,155
+725,Basic,2022,1/8/2022,7/29/2023,Biography,Italy,29,Female,Tablet,6 Month,199,Good,720p,18,3582,155
+726,Premium,2022,2/8/2022,12/7/2023,Autobiography,Spain,50,Male,Laptop,1 Month,649,Best,4K+HDR,21,13629,24
+727,Basic,2022,4/8/2022,12/29/2023,Fantasy,Spain,32,Female,Laptop,1 Month,199,Good,720p,20,3980,2
+728,Standard,2022,4/8/2022,6/29/2023,Thriller,United States,39,Male,Laptop,6 Month,499,Better,1080p,14,6986,185
+729,Standard,2022,7/7/2022,10/28/2023,Historical Fiction,Canada,43,Female,Smartphone,3 Month,499,Better,1080p,15,7485,64
+737,Basic,2022,2/7/2022,6/28/2023,Drama,Brazil,43,Female,Tablet,6 Month,199,Good,720p,16,3184,186
+741,Premium,2022,9/6/2022,11/28/2023,Self-Help,Spain,47,Male,Smart TV,1 Month,649,Best,4K+HDR,14,9086,33
+742,Basic,2022,10/6/2022,12/28/2023,Science Fiction,Spain,51,Male,Smartphone,1 Month,199,Good,720p,14,2786,3
+743,Standard,2022,10/6/2022,12/28/2023,Action,United States,31,Female,Laptop,1 Month,499,Better,1080p,14,6986,3
+744,Premium,2022,11/6/2022,11/29/2023,Thriller,Canada,34,Female,Tablet,1 Month,649,Best,4K+HDR,12,7788,32
+745,Basic,2022,12/6/2022,11/28/2023,Mystery,United States,28,Female,Laptop,1 Month,199,Good,720p,11,2189,33
+749,Premium,2022,6/7/2022,11/28/2023,Horror,Australia,46,Male,Smart TV,1 Month,649,Best,4K+HDR,17,11033,33
+750,Basic,2022,9/7/2022,11/29/2023,Thriller,Germany,47,Male,Smart TV,1 Month,199,Good,720p,14,2786,32
+754,Standard,2022,10/8/2022,10/29/2023,Drama,Spain,41,Male,Laptop,3 Month,499,Better,1080p,12,5988,63
+757,Standard,2022,3/9/2022,9/28/2023,Autobiography,Spain,32,Male,Laptop,3 Month,499,Better,1080p,18,8982,94
+758,Basic,2022,4/9/2022,7/29/2023,Horror,United States,47,Male,Laptop,6 Month,199,Good,720p,15,2985,155
+759,Standard,2022,5/9/2022,10/29/2023,Comedy,Canada,37,Male,Smart TV,3 Month,499,Better,1080p,17,8483,63
+760,Premium,2022,4/9/2022,11/1/2023,Adventure,United States,40,Female,Smartphone,1 Month,649,Best,4K+HDR,18,11682,60
+762,Premium,2022,1/9/2022,7/2/2023,Crime,Canada,48,Male,Laptop,6 Month,649,Best,4K+HDR,17,11033,182
+767,Basic,2022,7/10/2022,9/29/2023,Thriller,Brazil,39,Male,Laptop,3 Month,199,Good,720p,14,2786,93
+768,Standard,2022,8/10/2022,12/2/2023,Biography,Mexico,38,Female,Laptop,1 Month,499,Better,1080p,15,7485,29
+769,Premium,2022,8/10/2022,11/28/2023,Biography,Spain,36,Female,Smart TV,1 Month,649,Best,4K+HDR,15,9735,33
+770,Basic,2022,3/10/2022,9/1/2023,Crime,Italy,42,Female,Laptop,3 Month,199,Good,720p,17,3383,121
+771,Premium,2022,4/10/2022,11/28/2023,Non-Fiction,Spain,27,Male,Tablet,1 Month,649,Best,4K+HDR,19,12331,33
+772,Basic,2022,2/10/2022,12/1/2023,Mystery,Spain,48,Male,Laptop,1 Month,199,Good,720p,21,4179,30
+773,Standard,2022,1/10/2022,6/28/2023,Comedy,United States,27,Female,Smart TV,6 Month,499,Better,1080p,17,8483,186
+774,Standard,2022,3/10/2022,7/2/2023,Crime,Canada,49,Male,Smartphone,6 Month,499,Better,1080p,15,7485,182
+792,Basic,2022,11/8/2022,6/28/2023,Thriller,Canada,45,Male,Smart TV,6 Month,199,Good,720p,7,1393,186
+793,Standard,2022,5/8/2022,12/28/2023,Horror,United Kingdom,42,Female,Smartphone,1 Month,499,Better,1080p,19,9481,3
+794,Standard,2022,2/8/2022,6/28/2023,Science Fiction,Australia,32,Female,Smart TV,6 Month,499,Better,1080p,16,7984,186
+795,Basic,2022,3/8/2022,6/1/2023,Horror,Germany,47,Male,Smartphone,6 Month,199,Good,720p,14,2786,213
+796,Premium,2022,4/8/2022,12/1/2023,Science Fiction,France,27,Male,Smart TV,1 Month,649,Best,4K+HDR,19,12331,30
+797,Basic,2022,5/8/2022,10/28/2023,Horror,Brazil,35,Male,Tablet,3 Month,199,Good,720p,17,3383,64
+798,Standard,2022,12/7/2022,11/28/2023,Thriller,Mexico,35,Male,Laptop,1 Month,499,Better,1080p,11,5489,33
+799,Premium,2022,2/7/2022,12/28/2023,Thriller,Spain,48,Male,Tablet,1 Month,649,Best,4K+HDR,22,14278,3
+806,Premium,2022,1/7/2022,12/28/2023,Adventure,United States,30,Female,Laptop,1 Month,649,Best,4K+HDR,23,14927,3
+810,Basic,2022,9/6/2022,12/29/2023,Autobiography,Germany,38,Male,Smartphone,1 Month,199,Good,720p,15,2985,2
+811,Premium,2022,10/6/2022,12/28/2023,Adventure,France,36,Male,Laptop,1 Month,649,Best,4K+HDR,14,9086,3
+812,Basic,2022,11/6/2022,6/1/2023,Horror,Brazil,33,Male,Laptop,6 Month,199,Good,720p,6,1194,213
+813,Standard,2022,11/6/2022,10/28/2023,Science Fiction,Mexico,50,Male,Smartphone,3 Month,499,Better,1080p,11,5489,64
+814,Standard,2022,12/6/2022,7/29/2023,Mystery,Spain,38,Male,Smartphone,6 Month,499,Better,1080p,7,3493,155
+819,Premium,2022,1/7/2022,11/1/2023,Historical Fiction,Canada,50,Male,Laptop,1 Month,649,Best,4K+HDR,21,13629,60
+820,Basic,2022,7/7/2022,12/28/2023,Science Fiction,United States,43,Female,Tablet,1 Month,199,Good,720p,17,3383,3
+825,Basic,2022,9/8/2022,6/28/2023,Mystery,Germany,30,Female,Laptop,6 Month,199,Good,720p,9,1791,186
+829,Standard,2022,1/9/2022,6/29/2023,Crime,Spain,31,Male,Tablet,6 Month,499,Better,1080p,17,8483,185
+830,Basic,2022,2/9/2022,6/3/2023,Self-Help,Italy,30,Female,Smartphone,6 Month,199,Good,720p,15,2985,211
+831,Premium,2022,2/9/2022,9/29/2023,Comedy,Spain,35,Male,Smartphone,3 Month,649,Best,4K+HDR,19,12331,93
+836,Basic,2022,4/10/2022,10/1/2023,Science Fiction,United States,28,Male,Laptop,3 Month,199,Good,720p,17,3383,91
+837,Premium,2022,6/10/2022,6/29/2023,Crime,Canada,46,Female,Smart TV,6 Month,649,Best,4K+HDR,12,7788,185
+838,Standard,2022,7/10/2022,9/2/2023,Comedy,United Kingdom,38,Male,Smartphone,3 Month,499,Better,1080p,13,6487,120
+839,Basic,2022,6/10/2022,12/28/2023,Romance,Australia,35,Female,Laptop,1 Month,199,Good,720p,18,3582,3
+840,Standard,2022,7/10/2022,7/3/2023,Crime,Germany,49,Male,Smartphone,6 Month,499,Better,1080p,11,5489,181
+841,Premium,2022,6/10/2022,11/29/2023,Crime,France,42,Male,Smartphone,1 Month,649,Best,4K+HDR,17,11033,32
+842,Basic,2022,6/10/2022,12/2/2023,Mystery,Brazil,37,Female,Laptop,1 Month,199,Good,720p,17,3383,29
+843,Standard,2022,4/10/2022,6/1/2023,Science Fiction,Mexico,39,Female,Smartphone,6 Month,499,Better,1080p,13,6487,213
+848,Standard,2022,1/11/2022,12/2/2023,Romance,United States,40,Male,Tablet,1 Month,499,Better,1080p,22,10978,29
+849,Standard,2022,12/11/2022,12/29/2023,Mystery,Canada,30,Female,Smart TV,1 Month,499,Better,1080p,12,5988,2
+851,Premium,2022,9/11/2022,6/28/2023,Comedy,United States,47,Male,Laptop,6 Month,649,Best,4K+HDR,9,5841,186
+852,Basic,2022,8/11/2022,12/1/2023,Non-Fiction,Canada,47,Female,Laptop,1 Month,199,Good,720p,15,2985,30
+853,Standard,2022,6/11/2022,10/28/2023,Romance,United Kingdom,39,Male,Tablet,3 Month,499,Better,1080p,16,7984,64
+854,Premium,2022,7/11/2022,12/28/2023,Horror,Australia,49,Male,Smart TV,1 Month,649,Best,4K+HDR,17,11033,3
+855,Basic,2022,2/11/2022,9/1/2023,Non-Fiction,Germany,33,Male,Laptop,3 Month,199,Good,720p,18,3582,121
+856,Premium,2022,6/10/2022,7/28/2023,Adventure,France,32,Female,Smart TV,6 Month,649,Best,4K+HDR,13,8437,156
+858,Standard,2022,10/9/2022,12/28/2023,Comedy,Mexico,40,Female,Laptop,1 Month,499,Better,1080p,14,6986,3
+859,Standard,2022,4/9/2022,10/28/2023,Romance,Spain,51,Female,Tablet,3 Month,499,Better,1080p,18,8982,64
+862,Basic,2022,12/8/2022,7/1/2023,Non-Fiction,Spain,47,Male,Smartphone,6 Month,199,Good,720p,6,1194,183
+863,Standard,2022,10/8/2022,7/28/2023,Thriller,United States,35,Male,Laptop,6 Month,499,Better,1080p,9,4491,156
+864,Premium,2022,10/8/2022,6/1/2023,Comedy,Canada,31,Male,Tablet,6 Month,649,Best,4K+HDR,7,4543,213
+865,Basic,2022,4/8/2022,7/1/2023,Mystery,United States,36,Male,Smartphone,6 Month,199,Good,720p,14,2786,183
+866,Premium,2022,5/8/2022,12/1/2023,Science Fiction,United States,41,Female,Smart TV,1 Month,649,Best,4K+HDR,18,11682,30
+870,Basic,2022,3/7/2022,7/2/2023,Science Fiction,Germany,38,Male,Laptop,6 Month,199,Good,720p,15,2985,182
+880,Basic,2022,11/6/2022,6/28/2023,Historical Fiction,United States,31,Male,Smart TV,6 Month,199,Good,720p,7,1393,186
+881,Premium,2022,11/6/2022,10/1/2023,Thriller,United States,31,Female,Smartphone,3 Month,649,Best,4K+HDR,10,6490,91
+882,Basic,2022,12/6/2022,11/1/2023,Autobiography,Canada,46,Female,Smart TV,1 Month,199,Good,720p,10,1990,60
+889,Standard,2022,2/7/2022,10/1/2023,Drama,Spain,45,Female,Smartphone,3 Month,499,Better,1080p,19,9481,91
+890,Basic,2022,6/7/2022,12/28/2023,Adventure,Italy,44,Male,Smart TV,1 Month,199,Good,720p,18,3582,3
+894,Premium,2022,3/8/2022,6/1/2023,Action,Canada,50,Male,Smart TV,6 Month,649,Best,4K+HDR,14,9086,213
+899,Premium,2022,1/9/2022,9/29/2023,Comedy,Australia,37,Male,Laptop,3 Month,649,Best,4K+HDR,20,12980,93
+900,Basic,2022,2/9/2022,7/3/2023,Crime,Germany,32,Female,Smartphone,6 Month,199,Good,720p,16,3184,181
+901,Basic,2022,4/9/2022,9/28/2023,Horror,France,29,Male,Smartphone,3 Month,199,Good,720p,17,3383,94
+902,Premium,2022,10/9/2022,6/2/2023,Fantasy,Brazil,28,Male,Tablet,6 Month,649,Best,4K+HDR,7,4543,212
+905,Basic,2022,1/10/2022,6/28/2023,Action,Italy,38,Female,Laptop,6 Month,199,Good,720p,17,3383,186
+906,Premium,2022,6/10/2022,11/2/2023,Mystery,Spain,32,Male,Smart TV,1 Month,649,Best,4K+HDR,16,10384,59
+907,Standard,2022,7/10/2022,9/28/2023,Fantasy,Spain,48,Male,Laptop,3 Month,499,Better,1080p,14,6986,94
+908,Basic,2022,8/10/2022,11/3/2023,Horror,United States,46,Female,Smart TV,1 Month,199,Good,720p,14,2786,58
+909,Standard,2022,8/10/2022,7/1/2023,Drama,Canada,30,Male,Tablet,6 Month,499,Better,1080p,10,4990,183
+910,Premium,2022,8/10/2022,7/3/2023,Mystery,United States,40,Female,Smart TV,6 Month,649,Best,4K+HDR,10,6490,181
+911,Basic,2022,8/10/2022,9/29/2023,Non-Fiction,United States,29,Male,Smart TV,3 Month,199,Good,720p,13,2587,93
+912,Premium,2022,8/10/2022,10/2/2023,Horror,Canada,41,Male,Tablet,3 Month,649,Best,4K+HDR,13,8437,90
+913,Standard,2022,10/10/2022,12/1/2023,Science Fiction,United Kingdom,32,Male,Laptop,1 Month,499,Better,1080p,13,6487,30
+920,Basic,2022,9/11/2022,12/1/2023,Non-Fiction,Italy,34,Female,Tablet,1 Month,199,Good,720p,14,2786,30
+921,Premium,2022,9/11/2022,9/1/2023,Romance,Spain,27,Female,Smart TV,3 Month,649,Best,4K+HDR,11,7139,121
+922,Basic,2022,7/11/2022,11/1/2023,Drama,Spain,34,Male,Tablet,1 Month,199,Good,720p,15,2985,60
+923,Standard,2022,8/11/2022,9/28/2023,Horror,United States,28,Male,Tablet,3 Month,499,Better,1080p,13,6487,94
+924,Standard,2022,5/11/2022,10/1/2023,Science Fiction,Canada,37,Female,Smart TV,3 Month,499,Better,1080p,16,7984,91
+932,Basic,2022,11/8/2022,9/2/2023,Autobiography,Brazil,37,Male,Smart TV,3 Month,199,Good,720p,9,1791,120
+933,Standard,2022,11/8/2022,7/1/2023,Crime,Mexico,35,Male,Laptop,6 Month,499,Better,1080p,7,3493,183
+934,Standard,2022,6/8/2022,12/1/2023,Fantasy,Spain,34,Female,Smartphone,1 Month,499,Better,1080p,17,8483,30
+935,Basic,2022,7/8/2022,10/2/2023,Adventure,Italy,44,Male,Smartphone,3 Month,199,Good,720p,14,2786,90
+958,Standard,2022,2/7/2022,12/1/2023,Adventure,United Kingdom,42,Female,Laptop,1 Month,499,Better,1080p,21,10479,30
+959,Premium,2022,4/7/2022,6/2/2023,Comedy,Australia,35,Female,Laptop,6 Month,649,Best,4K+HDR,13,8437,212
+963,Standard,2022,1/8/2022,10/1/2023,Horror,Mexico,51,Female,Tablet,3 Month,499,Better,1080p,20,9980,91
+964,Standard,2022,12/8/2022,9/3/2023,Adventure,Spain,45,Male,Smart TV,3 Month,499,Better,1080p,8,3992,119
+969,Premium,2022,2/9/2022,10/28/2023,Historical Fiction,Canada,28,Male,Smart TV,3 Month,649,Best,4K+HDR,20,12980,64
+970,Basic,2022,3/9/2022,7/3/2023,Crime,United States,44,Female,Tablet,6 Month,199,Good,720p,15,2985,181
+971,Basic,2022,5/9/2022,10/1/2023,Comedy,United States,36,Male,Tablet,3 Month,199,Good,720p,16,3184,91
+972,Basic,2022,10/9/2022,11/2/2023,Self-Help,Canada,37,Female,Laptop,1 Month,199,Good,720p,12,2388,59
+975,Basic,2022,2/10/2022,9/28/2023,Horror,Germany,36,Female,Smart TV,3 Month,199,Good,720p,19,3781,94
+976,Basic,2022,5/10/2022,7/3/2023,Biography,France,39,Female,Laptop,6 Month,199,Good,720p,13,2587,181
+977,Premium,2022,7/10/2022,6/28/2023,Comedy,Brazil,45,Female,Laptop,6 Month,649,Best,4K+HDR,11,7139,186
+978,Standard,2022,8/10/2022,9/3/2023,Drama,Mexico,29,Male,Smart TV,3 Month,499,Better,1080p,12,5988,119
+979,Standard,2022,8/10/2022,7/1/2023,Comedy,Spain,45,Male,Smartphone,6 Month,499,Better,1080p,10,4990,183
+980,Basic,2022,9/10/2022,10/3/2023,Comedy,Italy,29,Male,Smart TV,3 Month,199,Good,720p,12,2388,89
+981,Premium,2022,9/10/2022,11/28/2023,Drama,Spain,28,Female,Smart TV,1 Month,649,Best,4K+HDR,14,9086,33
+982,Standard,2022,10/10/2022,10/2/2023,Drama,Spain,42,Female,Smart TV,3 Month,499,Better,1080p,11,5489,90
+989,Basic,2022,8/11/2022,12/1/2023,Biography,Australia,34,Male,Smartphone,1 Month,199,Good,720p,15,2985,30
+990,Standard,2022,9/11/2022,12/1/2023,Science Fiction,Germany,35,Male,Smartphone,1 Month,499,Better,1080p,14,6986,30
+991,Premium,2022,7/11/2022,11/1/2023,Autobiography,France,44,Female,Smart TV,1 Month,649,Best,4K+HDR,15,9735,60
+992,Basic,2022,8/11/2022,10/3/2023,Adventure,Brazil,47,Female,Smartphone,3 Month,199,Good,720p,13,2587,89
+993,Standard,2022,8/11/2022,9/3/2023,Fantasy,Mexico,33,Female,Laptop,3 Month,499,Better,1080p,12,5988,119
+1001,Premium,2022,12/8/2022,6/3/2023,Horror,United States,34,Female,Laptop,6 Month,649,Best,4K+HDR,5,3245,211
+1002,Basic,2022,12/8/2022,11/3/2023,Self-Help,Canada,38,Female,Tablet,1 Month,199,Good,720p,10,1990,58
+1003,Standard,2022,11/8/2022,9/1/2023,Self-Help,United Kingdom,46,Male,Smart TV,3 Month,499,Better,1080p,9,4491,121
+1004,Premium,2022,11/8/2022,11/2/2023,Thriller,Australia,42,Male,Smart TV,1 Month,649,Best,4K+HDR,11,7139,59
+1005,Basic,2022,10/8/2022,9/2/2023,Fantasy,Germany,46,Male,Laptop,3 Month,199,Good,720p,10,1990,120
+1009,Standard,2022,5/7/2022,12/2/2023,Fantasy,Spain,31,Female,Laptop,1 Month,499,Better,1080p,18,8982,29
+1010,Basic,2022,1/7/2022,6/3/2023,Fantasy,Italy,36,Female,Tablet,6 Month,199,Good,720p,16,3184,211
+1011,Premium,2022,1/7/2022,11/28/2023,Historical Fiction,Spain,28,Male,Smart TV,1 Month,649,Best,4K+HDR,22,14278,33
+1027,Basic,2022,2/7/2022,9/1/2023,Biography,Spain,28,Female,Tablet,3 Month,199,Good,720p,18,3582,121
+1028,Standard,2022,4/7/2022,9/1/2023,Drama,United States,47,Male,Tablet,3 Month,499,Better,1080p,16,7984,121
+1029,Standard,2022,7/7/2022,10/2/2023,Adventure,Canada,47,Male,Smartphone,3 Month,499,Better,1080p,14,6986,90
+1045,Basic,2022,4/10/2022,9/1/2023,Action,United States,27,Male,Tablet,3 Month,199,Good,720p,16,3184,121
+1046,Basic,2022,6/10/2022,11/3/2023,Action,United States,27,Male,Laptop,1 Month,199,Good,720p,16,3184,58
+1047,Basic,2022,7/10/2022,10/1/2023,Self-Help,Canada,39,Female,Laptop,3 Month,199,Good,720p,14,2786,91
+1048,Standard,2022,8/10/2022,12/3/2023,Adventure,United Kingdom,51,Male,Tablet,1 Month,499,Better,1080p,15,7485,28
+1049,Premium,2022,9/10/2022,10/1/2023,Mystery,Australia,41,Male,Smartphone,3 Month,649,Best,4K+HDR,12,7788,91
+1050,Basic,2022,10/10/2022,11/3/2023,Crime,Germany,30,Female,Smart TV,1 Month,199,Good,720p,12,2388,58
+1051,Basic,2022,10/10/2022,7/28/2023,Historical Fiction,France,46,Male,Laptop,6 Month,199,Good,720p,9,1791,156
+1058,Basic,2022,5/11/2022,6/2/2023,Fantasy,United States,28,Female,Smart TV,6 Month,199,Good,720p,12,2388,212
+1059,Standard,2022,7/11/2022,9/2/2023,Drama,Canada,43,Male,Tablet,3 Month,499,Better,1080p,13,6487,120
+1060,Premium,2022,8/11/2022,9/2/2023,Autobiography,United States,50,Female,Laptop,3 Month,649,Best,4K+HDR,12,7788,120
+1061,Basic,2022,9/11/2022,11/1/2023,Romance,United States,30,Female,Tablet,1 Month,199,Good,720p,13,2587,60
+1062,Premium,2022,10/11/2022,11/3/2023,Comedy,Canada,34,Female,Laptop,1 Month,649,Best,4K+HDR,12,7788,58
+1063,Standard,2022,2/11/2022,7/3/2023,Self-Help,United Kingdom,35,Female,Laptop,6 Month,499,Better,1080p,16,7984,181
+1069,Premium,2022,10/10/2022,10/2/2023,Non-Fiction,Spain,46,Male,Smart TV,3 Month,649,Best,4K+HDR,11,7139,90
+1070,Basic,2022,6/9/2022,11/3/2023,Romance,Italy,31,Male,Tablet,1 Month,199,Good,720p,16,3184,58
+1071,Premium,2022,6/9/2022,10/3/2023,Comedy,Spain,40,Female,Tablet,3 Month,649,Best,4K+HDR,15,9735,89
+1075,Basic,2022,6/8/2022,12/3/2023,Mystery,United States,43,Male,Smart TV,1 Month,199,Good,720p,17,3383,28
+1076,Premium,2022,6/8/2022,12/3/2023,Autobiography,United States,38,Female,Laptop,1 Month,649,Best,4K+HDR,17,11033,28
+1079,Premium,2022,9/7/2022,6/2/2023,Crime,Australia,49,Female,Tablet,6 Month,649,Best,4K+HDR,8,5192,212
+1080,Basic,2022,4/7/2022,6/3/2023,Mystery,Germany,33,Male,Smartphone,6 Month,199,Good,720p,13,2587,211
+1097,Basic,2022,3/7/2022,9/2/2023,Fantasy,Brazil,45,Female,Smartphone,3 Month,199,Good,720p,17,3383,120
+1098,Standard,2022,4/7/2022,10/2/2023,Mystery,Mexico,39,Female,Smartphone,3 Month,499,Better,1080p,17,8483,90
+1099,Premium,2022,8/7/2022,6/2/2023,Mystery,Spain,51,Female,Laptop,6 Month,649,Best,4K+HDR,9,5841,212
+1103,Standard,2022,2/8/2022,10/1/2023,Science Fiction,United States,49,Female,Tablet,3 Month,499,Better,1080p,19,9481,91
+1104,Standard,2022,9/8/2022,6/3/2023,Mystery,Canada,37,Female,Smart TV,6 Month,499,Better,1080p,8,3992,211
+1108,Standard,2022,2/9/2022,7/3/2023,Adventure,United Kingdom,34,Male,Laptop,6 Month,499,Better,1080p,16,7984,181
+1109,Premium,2022,4/9/2022,7/1/2023,Action,Australia,51,Female,Smartphone,6 Month,649,Best,4K+HDR,14,9086,183
+1110,Basic,2022,5/9/2022,11/4/2023,Fantasy,Germany,41,Female,Tablet,1 Month,199,Good,720p,17,3383,57
+1111,Premium,2022,10/9/2022,11/1/2023,Action,France,51,Male,Smart TV,1 Month,649,Best,4K+HDR,12,7788,60
+1114,Standard,2022,1/10/2022,12/3/2023,Self-Help,Spain,50,Male,Smart TV,1 Month,499,Better,1080p,22,10978,28
+1115,Basic,2022,3/10/2022,11/1/2023,Adventure,Italy,33,Male,Laptop,1 Month,199,Good,720p,19,3781,60
+1116,Premium,2022,6/10/2022,12/4/2023,Horror,Spain,44,Female,Laptop,1 Month,649,Best,4K+HDR,17,11033,27
+1117,Basic,2022,8/10/2022,10/1/2023,Horror,Spain,42,Female,Tablet,3 Month,199,Good,720p,13,2587,91
+1118,Standard,2022,9/10/2022,11/3/2023,Crime,United States,35,Male,Smart TV,1 Month,499,Better,1080p,13,6487,58
+1119,Premium,2022,10/10/2022,11/2/2023,Comedy,Canada,48,Male,Smartphone,1 Month,649,Best,4K+HDR,12,7788,59
+1120,Basic,2022,10/10/2022,9/4/2023,Romance,United States,51,Female,Smartphone,3 Month,199,Good,720p,10,1990,118
+1121,Basic,2022,12/10/2022,9/1/2023,Non-Fiction,United States,44,Female,Smart TV,3 Month,199,Good,720p,8,1592,121
+1128,Standard,2022,5/11/2022,9/3/2023,Science Fiction,Mexico,42,Male,Tablet,3 Month,499,Better,1080p,15,7485,119
+1129,Standard,2022,7/11/2022,10/3/2023,Biography,Spain,37,Female,Smartphone,3 Month,499,Better,1080p,14,6986,89
+1130,Basic,2022,8/11/2022,11/3/2023,Fantasy,Italy,27,Female,Smart TV,1 Month,199,Good,720p,14,2786,58
+1131,Premium,2022,9/11/2022,7/2/2023,Action,Spain,34,Female,Laptop,6 Month,649,Best,4K+HDR,9,5841,182
+1132,Standard,2022,6/11/2022,11/3/2023,Adventure,Spain,51,Male,Laptop,1 Month,499,Better,1080p,16,7984,58
+1133,Basic,2022,4/11/2022,10/3/2023,Action,United States,42,Male,Laptop,3 Month,199,Good,720p,17,3383,89
+1134,Standard,2022,3/11/2022,11/5/2023,Self-Help,Canada,46,Female,Smart TV,1 Month,499,Better,1080p,19,9481,56
+1139,Basic,2022,11/9/2022,11/2/2023,Fantasy,Australia,33,Male,Smartphone,1 Month,199,Good,720p,11,2189,59
+1140,Standard,2022,9/9/2022,12/3/2023,Autobiography,Germany,31,Female,Smart TV,1 Month,499,Better,1080p,14,6986,28
+1145,Basic,2022,9/8/2022,11/3/2023,Drama,Italy,46,Male,Smart TV,1 Month,199,Good,720p,13,2587,58
+1146,Premium,2022,4/8/2022,7/4/2023,Fantasy,Spain,46,Female,Smartphone,6 Month,649,Best,4K+HDR,14,9086,180
+1148,Standard,2022,11/7/2022,9/2/2023,Thriller,United States,38,Male,Smartphone,3 Month,499,Better,1080p,9,4491,120
+1149,Standard,2022,9/7/2022,10/3/2023,Self-Help,Canada,48,Female,Tablet,3 Month,499,Better,1080p,12,5988,89
+1150,Basic,2022,1/7/2022,10/3/2023,Action,United States,38,Male,Tablet,3 Month,199,Good,720p,20,3980,89
+1166,Premium,2022,2/7/2022,11/2/2023,Action,United States,39,Female,Tablet,1 Month,649,Best,4K+HDR,20,12980,59
+1167,Basic,2022,3/7/2022,6/2/2023,Science Fiction,Canada,45,Male,Tablet,6 Month,199,Good,720p,14,2786,212
+1168,Standard,2022,5/7/2022,10/2/2023,Action,United Kingdom,42,Male,Laptop,3 Month,499,Better,1080p,16,7984,90
+1217,Basic,2022,12/7/2022,6/1/2023,Autobiography,Brazil,42,Male,Laptop,6 Month,199,Good,720p,5,995,213
+1218,Standard,2022,11/7/2022,12/3/2023,Thriller,Mexico,40,Male,Laptop,1 Month,499,Better,1080p,12,5988,28
+1219,Premium,2022,6/7/2022,12/4/2023,Self-Help,Spain,48,Female,Smartphone,1 Month,649,Best,4K+HDR,17,11033,27
+1220,Basic,2022,1/7/2022,10/3/2023,Science Fiction,Italy,28,Male,Smart TV,3 Month,199,Good,720p,20,3980,89
+1221,Premium,2022,2/7/2022,12/1/2023,Crime,Spain,40,Male,Smart TV,1 Month,649,Best,4K+HDR,21,13629,30
+1236,Premium,2022,1/7/2022,7/2/2023,Science Fiction,Spain,35,Female,Tablet,6 Month,649,Best,4K+HDR,17,11033,182
+1237,Basic,2022,5/7/2022,7/2/2023,Fantasy,Spain,32,Female,Tablet,6 Month,199,Good,720p,13,2587,182
+1238,Standard,2022,12/7/2022,9/4/2023,Non-Fiction,United States,28,Female,Smartphone,3 Month,499,Better,1080p,8,3992,118
+1247,Basic,2022,1/9/2022,10/2/2023,Action,Brazil,41,Female,Smartphone,3 Month,199,Good,720p,20,3980,90
+1248,Standard,2022,3/9/2022,12/5/2023,Fantasy,Mexico,47,Female,Smart TV,1 Month,499,Better,1080p,20,9980,26
+1249,Premium,2022,7/9/2022,7/3/2023,Biography,Spain,28,Female,Smart TV,6 Month,649,Best,4K+HDR,11,7139,181
+1250,Basic,2022,8/9/2022,10/4/2023,Thriller,Italy,44,Female,Smartphone,3 Month,199,Good,720p,13,2587,88
+1255,Basic,2022,2/10/2022,10/4/2023,Action,United States,50,Male,Smart TV,3 Month,199,Good,720p,19,3781,88
+1256,Premium,2022,3/10/2022,7/5/2023,Crime,United States,43,Male,Laptop,6 Month,649,Best,4K+HDR,15,9735,179
+1257,Basic,2022,5/10/2022,9/1/2023,Crime,Canada,32,Male,Smart TV,3 Month,199,Good,720p,15,2985,121
+1258,Standard,2022,10/10/2022,11/3/2023,Romance,United Kingdom,42,Female,Tablet,1 Month,499,Better,1080p,12,5988,58
+1259,Premium,2022,11/10/2022,11/3/2023,Science Fiction,Australia,41,Female,Laptop,1 Month,649,Best,4K+HDR,11,7139,58
+1268,Standard,2022,2/11/2022,9/4/2023,Horror,United States,42,Female,Laptop,3 Month,499,Better,1080p,18,8982,118
+1269,Premium,2022,3/11/2022,11/5/2023,Drama,Canada,48,Female,Smartphone,1 Month,649,Best,4K+HDR,19,12331,56
+1270,Basic,2022,4/11/2022,12/6/2023,Action,United States,30,Female,Smart TV,1 Month,199,Good,720p,19,3781,25
+1271,Basic,2022,5/11/2022,10/3/2023,Mystery,United States,51,Male,Smartphone,3 Month,199,Good,720p,16,3184,89
+1272,Basic,2022,5/11/2022,9/4/2023,Crime,Canada,27,Male,Smartphone,3 Month,199,Good,720p,15,2985,118
+1279,Standard,2022,12/9/2022,7/3/2023,Mystery,Spain,34,Female,Tablet,6 Month,499,Better,1080p,6,2994,181
+1284,Standard,2022,9/8/2022,7/3/2023,Science Fiction,Canada,32,Female,Tablet,6 Month,499,Better,1080p,9,4491,181
+1285,Premium,2022,6/8/2022,7/4/2023,Science Fiction,United States,39,Male,Smart TV,6 Month,649,Best,4K+HDR,12,7788,180
+1287,Premium,2022,12/7/2022,12/2/2023,Historical Fiction,Canada,46,Male,Tablet,1 Month,649,Best,4K+HDR,11,7139,29
+1288,Standard,2022,12/7/2022,11/3/2023,Non-Fiction,United Kingdom,39,Male,Smartphone,1 Month,499,Better,1080p,10,4990,58
+1289,Basic,2022,2/7/2022,11/4/2023,Self-Help,Australia,46,Female,Tablet,1 Month,199,Good,720p,20,3980,57
+1290,Standard,2022,2/7/2022,6/3/2023,Crime,Germany,43,Male,Laptop,6 Month,499,Better,1080p,15,7485,211
+1293,Standard,2022,1/7/2022,10/4/2023,Comedy,Mexico,40,Female,Tablet,3 Month,499,Better,1080p,20,9980,88
+1305,Basic,2022,1/7/2022,9/3/2023,Science Fiction,Germany,49,Male,Smartphone,3 Month,199,Good,720p,19,3781,119
+1306,Premium,2022,2/7/2022,6/5/2023,Drama,France,33,Female,Laptop,6 Month,649,Best,4K+HDR,15,9735,209
+1307,Basic,2022,6/7/2022,10/3/2023,Crime,Brazil,34,Female,Tablet,3 Month,199,Good,720p,15,2985,89
+1308,Standard,2022,12/7/2022,7/6/2023,Comedy,Mexico,39,Male,Tablet,6 Month,499,Better,1080p,6,2994,178
+1312,Basic,2022,6/8/2022,12/6/2023,Horror,Spain,31,Female,Laptop,1 Month,199,Good,720p,17,3383,25
+1313,Standard,2022,9/8/2022,10/2/2023,Thriller,United States,39,Male,Smart TV,3 Month,499,Better,1080p,12,5988,90
+1317,Basic,2022,2/9/2022,12/3/2023,Thriller,Canada,31,Male,Tablet,1 Month,199,Good,720p,21,4179,28
+1318,Standard,2022,4/9/2022,7/5/2023,Mystery,United Kingdom,42,Male,Smartphone,6 Month,499,Better,1080p,14,6986,179
+1319,Standard,2022,6/9/2022,6/3/2023,Horror,Australia,35,Male,Smartphone,6 Month,499,Better,1080p,11,5489,211
+1324,Premium,2022,2/10/2022,11/4/2023,Romance,Spain,48,Female,Smart TV,1 Month,649,Best,4K+HDR,20,12980,57
+1325,Basic,2022,3/10/2022,10/4/2023,Adventure,Italy,34,Male,Smartphone,3 Month,199,Good,720p,18,3582,88
+1326,Premium,2022,5/10/2022,9/5/2023,Science Fiction,Spain,48,Male,Smartphone,3 Month,649,Best,4K+HDR,15,9735,117
+1327,Basic,2022,7/10/2022,6/2/2023,Mystery,Spain,48,Male,Laptop,6 Month,199,Good,720p,10,1990,212
+1328,Standard,2022,9/10/2022,11/4/2023,Romance,United States,35,Female,Tablet,1 Month,499,Better,1080p,13,6487,57
+1329,Standard,2022,11/10/2022,11/4/2023,Historical Fiction,Canada,29,Male,Laptop,1 Month,499,Better,1080p,11,5489,57
+1338,Standard,2022,3/11/2022,9/4/2023,Adventure,Mexico,45,Female,Laptop,3 Month,499,Better,1080p,17,8483,118
+1339,Standard,2022,4/11/2022,11/5/2023,Action,Spain,30,Male,Laptop,1 Month,499,Better,1080p,18,8982,56
+1340,Basic,2022,5/11/2022,12/6/2023,Drama,Italy,40,Female,Smartphone,1 Month,199,Good,720p,18,3582,25
+1341,Premium,2022,6/11/2022,9/4/2023,Drama,Spain,44,Female,Smart TV,3 Month,649,Best,4K+HDR,14,9086,118
+1342,Basic,2022,1/11/2022,11/5/2023,Self-Help,Spain,36,Female,Laptop,1 Month,199,Good,720p,21,4179,56
+1343,Standard,2022,1/11/2022,12/5/2023,Non-Fiction,United States,36,Male,Tablet,1 Month,499,Better,1080p,22,10978,26
+1349,Premium,2022,3/9/2022,11/3/2023,Thriller,Australia,28,Male,Laptop,1 Month,649,Best,4K+HDR,19,12331,58
+1354,Standard,2022,12/8/2022,12/4/2023,Adventure,Spain,29,Male,Tablet,1 Month,499,Better,1080p,11,5489,27
+1357,Standard,2022,12/7/2022,11/2/2023,Horror,Spain,51,Male,Smart TV,1 Month,499,Better,1080p,10,4990,59
+1358,Basic,2022,9/7/2022,11/4/2023,Action,United States,44,Male,Tablet,1 Month,199,Good,720p,13,2587,57
+1359,Standard,2022,9/7/2022,12/5/2023,Historical Fiction,Canada,35,Male,Laptop,1 Month,499,Better,1080p,14,6986,26
+1360,Premium,2022,10/7/2022,9/4/2023,Biography,United States,39,Male,Smart TV,3 Month,649,Best,4K+HDR,10,6490,118
+1361,Basic,2022,2/7/2022,6/2/2023,Non-Fiction,United States,41,Female,Laptop,6 Month,199,Good,720p,15,2985,212
+1362,Premium,2022,2/7/2022,6/4/2023,Historical Fiction,Canada,44,Female,Laptop,6 Month,649,Best,4K+HDR,15,9735,210
+1363,Standard,2022,1/7/2022,12/5/2023,Adventure,United Kingdom,29,Male,Laptop,1 Month,499,Better,1080p,22,10978,26
+1364,Basic,2022,1/7/2022,6/4/2023,Crime,Australia,47,Male,Tablet,6 Month,199,Good,720p,16,3184,210
+1376,Premium,2022,3/7/2022,10/5/2023,Crime,United States,29,Male,Tablet,3 Month,649,Best,4K+HDR,18,11682,87
+1377,Basic,2022,9/7/2022,7/4/2023,Action,Canada,31,Male,Smart TV,6 Month,199,Good,720p,9,1791,180
+1408,Standard,2022,3/11/2022,6/4/2023,Adventure,United Kingdom,40,Female,Smart TV,6 Month,499,Better,1080p,14,6986,210
+1409,Premium,2022,5/11/2022,7/6/2023,Comedy,Australia,38,Male,Tablet,6 Month,649,Best,4K+HDR,13,8437,178
+1410,Basic,2022,6/11/2022,6/6/2023,Thriller,Germany,31,Female,Tablet,6 Month,199,Good,720p,11,2189,208
+1411,Premium,2022,1/11/2022,10/4/2023,Drama,France,33,Female,Smart TV,3 Month,649,Best,4K+HDR,20,12980,88
+1412,Basic,2022,2/11/2022,10/5/2023,Mystery,Brazil,27,Male,Laptop,3 Month,199,Good,720p,19,3781,87
+1413,Standard,2022,2/11/2022,7/5/2023,Adventure,Mexico,47,Male,Smartphone,6 Month,499,Better,1080p,16,7984,179
+1414,Standard,2022,1/11/2022,9/6/2023,Thriller,Spain,41,Male,Tablet,3 Month,499,Better,1080p,19,9481,116
+1428,Standard,2022,12/7/2022,11/5/2023,Historical Fiction,Mexico,40,Male,Smart TV,1 Month,499,Better,1080p,10,4990,56
+1429,Standard,2022,12/7/2022,7/6/2023,Comedy,Spain,48,Male,Laptop,6 Month,499,Better,1080p,6,2994,178
+1430,Basic,2022,9/7/2022,9/5/2023,Mystery,Italy,43,Female,Smart TV,3 Month,199,Good,720p,11,2189,117
+1431,Premium,2022,5/7/2022,7/2/2023,Non-Fiction,Spain,46,Male,Laptop,6 Month,649,Best,4K+HDR,13,8437,182
+1432,Standard,2022,5/7/2022,12/5/2023,Mystery,Spain,43,Male,Smartphone,1 Month,499,Better,1080p,18,8982,26
+1433,Basic,2022,3/7/2022,7/5/2023,Horror,United States,30,Female,Tablet,6 Month,199,Good,720p,15,2985,179
+1434,Standard,2022,1/7/2022,12/4/2023,Science Fiction,Canada,51,Female,Laptop,1 Month,499,Better,1080p,22,10978,27
+1477,Basic,2022,3/11/2022,6/5/2023,Romance,Spain,42,Male,Smart TV,6 Month,199,Good,720p,14,2786,209
+1478,Standard,2022,5/11/2022,7/6/2023,Self-Help,United States,47,Female,Smart TV,6 Month,499,Better,1080p,13,6487,178
+1479,Standard,2022,6/11/2022,7/6/2023,Biography,Canada,29,Female,Smart TV,6 Month,499,Better,1080p,12,5988,178
+1480,Basic,2022,3/11/2022,12/7/2023,Adventure,United States,49,Female,Laptop,1 Month,199,Good,720p,20,3980,24
+1481,Premium,2022,3/11/2022,6/4/2023,Historical Fiction,United States,41,Female,Laptop,6 Month,649,Best,4K+HDR,14,9086,210
+1482,Basic,2022,4/11/2022,6/5/2023,Crime,Canada,45,Male,Smartphone,6 Month,199,Good,720p,13,2587,209
+1483,Standard,2022,2/11/2022,9/6/2023,Thriller,United Kingdom,49,Male,Smart TV,3 Month,499,Better,1080p,18,8982,116
+1487,Basic,2022,3/10/2022,12/5/2023,Science Fiction,Brazil,29,Male,Smartphone,1 Month,199,Good,720p,20,3980,26
+1491,Premium,2022,11/9/2022,9/5/2023,Fantasy,Spain,42,Female,Laptop,3 Month,649,Best,4K+HDR,9,5841,117
+1492,Basic,2022,9/9/2022,7/5/2023,Non-Fiction,Spain,48,Female,Laptop,6 Month,199,Good,720p,9,1791,179
+1493,Standard,2022,12/8/2022,6/3/2023,Mystery,United States,37,Female,Laptop,6 Month,499,Better,1080p,5,2495,211
+1494,Premium,2022,4/8/2022,12/6/2023,Horror,Canada,51,Female,Smartphone,1 Month,649,Best,4K+HDR,19,12331,25
+1495,Basic,2022,4/8/2022,10/6/2023,Thriller,United States,29,Female,Tablet,3 Month,199,Good,720p,17,3383,86
+1500,Basic,2022,11/7/2022,10/5/2023,Autobiography,Germany,38,Female,Tablet,3 Month,199,Good,720p,10,1990,87
+1501,Basic,2022,12/7/2022,9/3/2023,Comedy,France,36,Male,Smart TV,3 Month,199,Good,720p,8,1592,119
+1502,Premium,2022,11/7/2022,12/5/2023,Science Fiction,Brazil,40,Female,Laptop,1 Month,649,Best,4K+HDR,12,7788,26
+1503,Standard,2022,2/7/2022,6/5/2023,Science Fiction,Mexico,29,Male,Laptop,6 Month,499,Better,1080p,15,7485,209
+1572,Basic,2022,11/7/2022,7/6/2023,Non-Fiction,Canada,39,Male,Laptop,6 Month,199,Good,720p,7,1393,178
+1573,Standard,2022,7/7/2022,7/5/2023,Horror,United Kingdom,43,Male,Smart TV,6 Month,499,Better,1080p,11,5489,179
+1574,Premium,2022,7/7/2022,10/6/2023,Thriller,Australia,36,Male,Smart TV,3 Month,649,Best,4K+HDR,14,9086,86
+1575,Basic,2022,8/7/2022,10/5/2023,Comedy,Germany,49,Female,Laptop,3 Month,199,Good,720p,13,2587,87
+1576,Basic,2022,6/7/2022,12/8/2023,Drama,France,29,Female,Smartphone,1 Month,199,Good,720p,18,3582,23
+1577,Premium,2022,3/7/2022,7/4/2023,Adventure,Brazil,45,Male,Tablet,6 Month,649,Best,4K+HDR,15,9735,180
+1584,Standard,2022,2/7/2022,9/7/2023,Thriller,Canada,51,Male,Tablet,3 Month,499,Better,1080p,19,9481,115
+1585,Premium,2022,5/7/2022,12/5/2023,Science Fiction,United States,42,Male,Laptop,1 Month,649,Best,4K+HDR,18,11682,26
+1586,Basic,2022,11/7/2022,11/7/2023,Mystery,United States,34,Female,Tablet,1 Month,199,Good,720p,12,2388,54
+1590,Standard,2022,5/8/2022,12/8/2023,Historical Fiction,Germany,49,Female,Smart TV,1 Month,499,Better,1080p,19,9481,23
+1591,Premium,2022,9/8/2022,10/5/2023,Horror,France,35,Female,Laptop,3 Month,649,Best,4K+HDR,12,7788,87
+1597,Basic,2022,6/9/2022,11/6/2023,Autobiography,Spain,37,Male,Smart TV,1 Month,199,Good,720p,16,3184,55
+1598,Standard,2022,8/9/2022,9/7/2023,Autobiography,United States,48,Male,Laptop,3 Month,499,Better,1080p,12,5988,115
+1605,Basic,2022,3/10/2022,11/5/2023,Historical Fiction,Germany,39,Male,Laptop,1 Month,199,Good,720p,19,3781,56
+1606,Premium,2022,8/10/2022,6/7/2023,Self-Help,France,35,Female,Smartphone,6 Month,649,Best,4K+HDR,9,5841,207
+1607,Basic,2022,9/10/2022,12/7/2023,Historical Fiction,Brazil,41,Female,Smartphone,1 Month,199,Good,720p,14,2786,24
+1608,Standard,2022,12/10/2022,6/8/2023,Autobiography,Mexico,32,Female,Smart TV,6 Month,499,Better,1080p,5,2495,206
+1616,Premium,2022,1/11/2022,10/8/2023,Comedy,United States,48,Male,Laptop,3 Month,649,Best,4K+HDR,20,12980,84
+1617,Basic,2022,4/11/2022,12/5/2023,Self-Help,Canada,50,Male,Tablet,1 Month,199,Good,720p,19,3781,26
+1618,Standard,2022,5/11/2022,11/6/2023,Historical Fiction,United Kingdom,27,Male,Smart TV,1 Month,499,Better,1080p,17,8483,55
+1619,Standard,2022,4/11/2022,12/7/2023,Comedy,Australia,51,Female,Laptop,1 Month,499,Better,1080p,19,9481,24
+1620,Basic,2022,5/11/2022,9/7/2023,Crime,Germany,38,Male,Smartphone,3 Month,199,Good,720p,15,2985,115
+1621,Premium,2022,4/11/2022,11/5/2023,Horror,France,39,Male,Laptop,1 Month,649,Best,4K+HDR,18,11682,56
+1622,Basic,2022,5/11/2022,12/5/2023,Self-Help,Brazil,45,Female,Smart TV,1 Month,199,Good,720p,18,3582,26
+1623,Standard,2022,3/11/2022,7/6/2023,Historical Fiction,Mexico,29,Male,Laptop,6 Month,499,Better,1080p,15,7485,178
+1629,Standard,2022,12/9/2022,11/4/2023,Autobiography,Canada,40,Male,Smart TV,1 Month,499,Better,1080p,10,4990,57
+1631,Premium,2022,9/9/2022,6/7/2023,Historical Fiction,United States,44,Male,Laptop,6 Month,649,Best,4K+HDR,8,5192,207
+1632,Basic,2022,3/9/2022,9/6/2023,Drama,Canada,27,Female,Laptop,3 Month,199,Good,720p,17,3383,116
+1644,Premium,2022,9/7/2022,9/6/2023,Comedy,Canada,28,Male,Smartphone,3 Month,649,Best,4K+HDR,11,7139,116
+1645,Basic,2022,7/7/2022,10/5/2023,Thriller,United States,40,Female,Laptop,3 Month,199,Good,720p,14,2786,87
+1646,Basic,2022,7/7/2022,9/9/2023,Biography,United States,46,Female,Tablet,3 Month,199,Good,720p,14,2786,113
+1647,Basic,2022,6/7/2022,6/5/2023,Romance,Canada,39,Female,Laptop,6 Month,199,Good,720p,11,2189,209
+1653,Standard,2022,1/7/2022,6/6/2023,Thriller,Mexico,32,Male,Smartphone,6 Month,499,Better,1080p,16,7984,208
+1654,Standard,2022,3/7/2022,11/7/2023,Non-Fiction,Spain,27,Male,Tablet,1 Month,499,Better,1080p,20,9980,54
+1655,Basic,2022,4/7/2022,11/6/2023,Drama,Italy,50,Female,Tablet,1 Month,199,Good,720p,18,3582,55
+1656,Premium,2022,10/7/2022,11/7/2023,Self-Help,Spain,30,Male,Smartphone,1 Month,649,Best,4K+HDR,13,8437,54
+1660,Premium,2022,7/8/2022,6/8/2023,Comedy,United States,44,Male,Tablet,6 Month,649,Best,4K+HDR,11,7139,206
+1661,Basic,2022,10/8/2022,12/5/2023,Science Fiction,United States,49,Female,Laptop,1 Month,199,Good,720p,13,2587,26
+1667,Basic,2022,5/9/2022,7/6/2023,Romance,Brazil,49,Male,Tablet,6 Month,199,Good,720p,13,2587,178
+1668,Standard,2022,8/9/2022,11/8/2023,Science Fiction,Mexico,33,Female,Tablet,1 Month,499,Better,1080p,14,6986,53
+1674,Standard,2022,2/10/2022,12/6/2023,Thriller,Canada,38,Male,Smart TV,1 Month,499,Better,1080p,21,10479,25
+1675,Basic,2022,8/10/2022,9/5/2023,Horror,United States,42,Female,Laptop,3 Month,199,Good,720p,12,2388,117
+1676,Premium,2022,9/10/2022,9/7/2023,Historical Fiction,United States,35,Female,Laptop,3 Month,649,Best,4K+HDR,11,7139,115
+1677,Basic,2022,11/10/2022,12/8/2023,Romance,Canada,30,Male,Tablet,1 Month,199,Good,720p,12,2388,23
+1686,Premium,2022,1/11/2022,7/8/2023,Self-Help,Spain,40,Male,Laptop,6 Month,649,Best,4K+HDR,17,11033,176
+1687,Basic,2022,3/11/2022,11/5/2023,Autobiography,Spain,49,Male,Smartphone,1 Month,199,Good,720p,19,3781,56
+1688,Standard,2022,4/11/2022,6/6/2023,Non-Fiction,United States,41,Female,Tablet,6 Month,499,Better,1080p,13,6487,208
+1689,Premium,2022,5/11/2022,7/7/2023,Self-Help,Canada,38,Male,Tablet,6 Month,649,Best,4K+HDR,13,8437,177
+1690,Basic,2022,5/11/2022,7/7/2023,Autobiography,United States,42,Female,Laptop,6 Month,199,Good,720p,13,2587,177
+1691,Premium,2022,5/11/2022,9/5/2023,Comedy,United States,27,Female,Smart TV,3 Month,649,Best,4K+HDR,15,9735,117
+1692,Basic,2022,5/11/2022,6/6/2023,Self-Help,Canada,41,Female,Tablet,6 Month,199,Good,720p,12,2388,208
+1693,Standard,2022,3/11/2022,10/7/2023,Non-Fiction,United Kingdom,41,Female,Tablet,3 Month,499,Better,1080p,18,8982,85
+1697,Basic,2022,6/10/2022,9/7/2023,Adventure,Brazil,47,Female,Tablet,3 Month,199,Good,720p,14,2786,115
+1701,Premium,2022,9/9/2022,9/7/2023,Drama,Spain,32,Male,Smart TV,3 Month,649,Best,4K+HDR,11,7139,115
+1702,Basic,2022,2/9/2022,12/7/2023,Science Fiction,Spain,43,Male,Smartphone,1 Month,199,Good,720p,21,4179,24
+1703,Standard,2022,1/9/2022,6/6/2023,Thriller,United States,48,Male,Smart TV,6 Month,499,Better,1080p,16,7984,208
+1715,Basic,2022,12/7/2022,6/6/2023,Comedy,Italy,31,Female,Laptop,6 Month,199,Good,720p,5,995,208
+1716,Premium,2022,10/7/2022,10/9/2023,Crime,Spain,32,Male,Smart TV,3 Month,649,Best,4K+HDR,12,7788,83
+1717,Basic,2022,8/7/2022,9/7/2023,Action,Spain,46,Female,Smartphone,3 Month,199,Good,720p,13,2587,115
+1722,Basic,2022,1/7/2022,6/8/2023,Historical Fiction,Canada,31,Male,Tablet,6 Month,199,Good,720p,17,3383,206
+1723,Standard,2022,2/7/2022,7/6/2023,Action,United Kingdom,34,Male,Smart TV,6 Month,499,Better,1080p,16,7984,178
+1724,Premium,2022,4/7/2022,11/8/2023,Historical Fiction,Australia,28,Male,Laptop,1 Month,649,Best,4K+HDR,19,12331,53
+1725,Basic,2022,8/7/2022,10/7/2023,Non-Fiction,Germany,36,Female,Smartphone,3 Month,199,Good,720p,14,2786,85
+1730,Basic,2022,8/8/2022,9/8/2023,Adventure,Italy,28,Female,Smartphone,3 Month,199,Good,720p,13,2587,114
+1736,Basic,2022,4/9/2022,10/7/2023,Non-Fiction,United States,29,Female,Smartphone,3 Month,199,Good,720p,17,3383,85
+1737,Premium,2022,5/9/2022,11/6/2023,Self-Help,Canada,28,Female,Laptop,1 Month,649,Best,4K+HDR,17,11033,55
+1744,Premium,2022,4/10/2022,7/10/2023,Crime,Spain,30,Female,Smart TV,6 Month,649,Best,4K+HDR,15,9735,174
+1745,Basic,2022,8/10/2022,7/7/2023,Crime,Italy,45,Male,Tablet,6 Month,199,Good,720p,10,1990,177
+1746,Premium,2022,10/10/2022,6/7/2023,Historical Fiction,Spain,28,Male,Smart TV,6 Month,649,Best,4K+HDR,7,4543,207
+1747,Basic,2022,12/10/2022,6/8/2023,Thriller,Spain,30,Female,Laptop,6 Month,199,Good,720p,5,995,206
+1756,Premium,2022,2/11/2022,11/8/2023,Non-Fiction,France,41,Male,Tablet,1 Month,649,Best,4K+HDR,20,12980,53
+1757,Basic,2022,3/11/2022,12/5/2023,Biography,Brazil,43,Male,Laptop,1 Month,199,Good,720p,20,3980,26
+1758,Standard,2022,5/11/2022,12/7/2023,Science Fiction,Mexico,35,Male,Laptop,1 Month,499,Better,1080p,18,8982,24
+1759,Standard,2022,6/11/2022,9/7/2023,Horror,Spain,51,Male,Smart TV,3 Month,499,Better,1080p,14,6986,115
+1760,Basic,2022,6/11/2022,6/7/2023,Thriller,Italy,35,Male,Tablet,6 Month,199,Good,720p,11,2189,207
+1761,Premium,2022,7/11/2022,9/5/2023,Comedy,Spain,37,Male,Smart TV,3 Month,649,Best,4K+HDR,13,8437,117
+1762,Basic,2022,4/11/2022,7/6/2023,Self-Help,Spain,28,Female,Smartphone,6 Month,199,Good,720p,14,2786,178
+1763,Standard,2022,2/11/2022,7/7/2023,Adventure,United States,32,Female,Smartphone,6 Month,499,Better,1080p,16,7984,177
+1766,Premium,2022,7/10/2022,7/8/2023,Drama,United States,34,Female,Smart TV,6 Month,649,Best,4K+HDR,11,7139,176
+1767,Basic,2022,4/10/2022,6/7/2023,Crime,Canada,30,Female,Tablet,6 Month,199,Good,720p,13,2587,207
+1770,Basic,2022,10/9/2022,12/8/2023,Romance,Germany,50,Female,Tablet,1 Month,199,Good,720p,13,2587,23
+1771,Premium,2022,9/9/2022,10/8/2023,Self-Help,France,48,Female,Laptop,3 Month,649,Best,4K+HDR,12,7788,84
+1772,Basic,2022,9/9/2022,7/8/2023,Biography,Brazil,29,Male,Smart TV,6 Month,199,Good,720p,9,1791,176
+1773,Standard,2022,7/9/2022,12/6/2023,Self-Help,Mexico,37,Male,Tablet,1 Month,499,Better,1080p,16,7984,25
+1774,Premium,2022,8/9/2022,12/8/2023,Fantasy,Spain,36,Female,Tablet,1 Month,649,Best,4K+HDR,15,9735,23
+1776,Premium,2022,6/8/2022,6/8/2023,Mystery,Spain,27,Female,Smart TV,6 Month,649,Best,4K+HDR,12,7788,206
+1777,Basic,2022,6/8/2022,11/6/2023,Fantasy,Spain,31,Female,Tablet,1 Month,199,Good,720p,16,3184,55
+1787,Basic,2022,7/7/2022,10/7/2023,Self-Help,Brazil,28,Male,Laptop,3 Month,199,Good,720p,15,2985,85
+1788,Standard,2022,6/7/2022,7/9/2023,Biography,Mexico,48,Female,Smart TV,6 Month,499,Better,1080p,13,6487,175
+1791,Premium,2022,1/7/2022,7/6/2023,Comedy,Spain,45,Male,Laptop,6 Month,649,Best,4K+HDR,17,11033,178
+1792,Basic,2022,2/7/2022,9/9/2023,Thriller,Spain,45,Female,Tablet,3 Month,199,Good,720p,19,3781,113
+1793,Standard,2022,3/7/2022,9/6/2023,Crime,United States,42,Female,Smart TV,3 Month,499,Better,1080p,17,8483,116
+1794,Premium,2022,6/7/2022,12/8/2023,Fantasy,Canada,36,Female,Tablet,1 Month,649,Best,4K+HDR,18,11682,23
+1795,Basic,2022,7/7/2022,7/7/2023,Autobiography,United States,32,Male,Smart TV,6 Month,199,Good,720p,12,2388,177
+1799,Premium,2022,5/8/2022,7/7/2023,Thriller,Australia,49,Female,Tablet,6 Month,649,Best,4K+HDR,13,8437,177
+1800,Basic,2022,12/8/2022,7/9/2023,Romance,Germany,42,Male,Tablet,6 Month,199,Good,720p,7,1393,175
+1805,Basic,2022,4/9/2022,9/6/2023,Crime,Italy,50,Female,Smart TV,3 Month,199,Good,720p,16,3184,116
+1806,Premium,2022,5/9/2022,12/7/2023,Biography,Spain,49,Female,Laptop,1 Month,649,Best,4K+HDR,18,11682,24
+1807,Standard,2022,8/9/2022,7/7/2023,Fantasy,Spain,37,Male,Smartphone,6 Month,499,Better,1080p,10,4990,177
+1814,Basic,2022,7/10/2022,6/10/2023,Fantasy,Australia,33,Male,Smartphone,6 Month,199,Good,720p,11,2189,204
+1815,Standard,2022,9/10/2022,6/7/2023,Fantasy,Germany,42,Female,Tablet,6 Month,499,Better,1080p,8,3992,207
+1816,Premium,2022,12/10/2022,10/7/2023,Non-Fiction,France,51,Female,Laptop,3 Month,649,Best,4K+HDR,9,5841,85
+1825,Basic,2022,1/11/2022,12/8/2023,Drama,United States,45,Male,Smart TV,1 Month,199,Good,720p,22,4378,23
+1826,Premium,2022,3/11/2022,10/8/2023,Romance,United States,30,Male,Tablet,3 Month,649,Best,4K+HDR,18,11682,84
+1827,Basic,2022,4/11/2022,10/6/2023,Thriller,Canada,44,Female,Laptop,3 Month,199,Good,720p,17,3383,86
+1828,Standard,2022,5/11/2022,7/7/2023,Horror,United Kingdom,46,Male,Laptop,6 Month,499,Better,1080p,13,6487,177
+1829,Premium,2022,6/11/2022,6/8/2023,Crime,Australia,36,Female,Tablet,6 Month,649,Best,4K+HDR,11,7139,206
+1830,Basic,2022,7/11/2022,7/8/2023,Romance,Germany,27,Female,Smartphone,6 Month,199,Good,720p,11,2189,176
+1831,Premium,2022,5/11/2022,11/5/2023,Science Fiction,France,43,Male,Laptop,1 Month,649,Best,4K+HDR,17,11033,56
+1832,Basic,2022,5/11/2022,9/9/2023,Autobiography,Brazil,48,Female,Smartphone,3 Month,199,Good,720p,15,2985,113
+1833,Standard,2022,6/11/2022,7/8/2023,Science Fiction,Mexico,36,Female,Smartphone,6 Month,499,Better,1080p,12,5988,176
+1834,Standard,2022,3/11/2022,7/7/2023,Romance,Spain,44,Male,Smart TV,6 Month,499,Better,1080p,15,7485,177
+1841,Premium,2022,12/9/2022,10/8/2023,Self-Help,United States,35,Female,Tablet,3 Month,649,Best,4K+HDR,9,5841,84
+1842,Basic,2022,12/9/2022,6/9/2023,Self-Help,Canada,34,Female,Smartphone,6 Month,199,Good,720p,6,1194,205
+1843,Standard,2022,11/9/2022,6/7/2023,Autobiography,United Kingdom,46,Male,Laptop,6 Month,499,Better,1080p,6,2994,207
+1844,Standard,2022,11/9/2022,10/8/2023,Mystery,Australia,47,Female,Smart TV,3 Month,499,Better,1080p,10,4990,84
+1846,Premium,2022,12/8/2022,9/8/2023,Mystery,France,45,Male,Smartphone,3 Month,649,Best,4K+HDR,9,5841,114
+1847,Basic,2022,2/8/2022,6/7/2023,Science Fiction,Brazil,31,Female,Smartphone,6 Month,199,Good,720p,15,2985,207
+1848,Standard,2022,1/8/2022,6/10/2023,Biography,Mexico,49,Male,Laptop,6 Month,499,Better,1080p,17,8483,204
+1857,Basic,2022,6/7/2022,10/7/2023,Adventure,Canada,44,Female,Smart TV,3 Month,199,Good,720p,16,3184,85
+1858,Standard,2022,3/7/2022,6/9/2023,Mystery,United Kingdom,34,Male,Smart TV,6 Month,499,Better,1080p,15,7485,205
+1859,Premium,2022,4/7/2022,6/7/2023,Autobiography,Australia,41,Male,Laptop,6 Month,649,Best,4K+HDR,14,9086,207
+1860,Basic,2022,3/7/2022,12/9/2023,Historical Fiction,Germany,42,Male,Laptop,1 Month,199,Good,720p,21,4179,22
+1861,Premium,2022,3/7/2022,7/7/2023,Science Fiction,France,38,Female,Laptop,6 Month,649,Best,4K+HDR,16,10384,177
+1862,Basic,2022,4/7/2022,9/10/2023,Romance,Brazil,31,Female,Tablet,3 Month,199,Good,720p,17,3383,112
+1863,Standard,2022,5/7/2022,6/6/2023,Fantasy,Mexico,35,Female,Smartphone,6 Month,499,Better,1080p,12,5988,208
+1864,Standard,2022,7/7/2022,6/8/2023,Self-Help,Spain,32,Male,Smartphone,6 Month,499,Better,1080p,11,5489,206
+1865,Basic,2022,8/7/2022,10/7/2023,Autobiography,Italy,39,Male,Smartphone,3 Month,199,Good,720p,14,2786,85
+1868,Standard,2022,1/8/2022,7/8/2023,Biography,United States,38,Male,Tablet,6 Month,499,Better,1080p,18,8982,176
+1869,Premium,2022,11/8/2022,10/8/2023,Biography,Canada,48,Male,Smart TV,3 Month,649,Best,4K+HDR,11,7139,84
+1876,Basic,2022,4/9/2022,11/9/2023,Horror,France,29,Male,Tablet,1 Month,199,Good,720p,19,3781,52
+1883,Basic,2022,4/10/2022,11/8/2023,Horror,United States,50,Female,Tablet,1 Month,199,Good,720p,18,3582,53
+1884,Standard,2022,9/10/2022,10/11/2023,Horror,Canada,33,Female,Tablet,3 Month,499,Better,1080p,13,6487,81
+1885,Premium,2022,10/10/2022,11/7/2023,Biography,United States,32,Female,Tablet,1 Month,649,Best,4K+HDR,12,7788,54
+1886,Basic,2022,11/10/2022,11/8/2023,Adventure,United States,38,Male,Smart TV,1 Month,199,Good,720p,11,2189,53
+1895,Basic,2022,1/11/2022,10/9/2023,Crime,Italy,45,Male,Laptop,3 Month,199,Good,720p,20,3980,83
+1896,Premium,2022,2/11/2022,9/9/2023,Drama,Spain,43,Male,Laptop,3 Month,649,Best,4K+HDR,18,11682,113
+1897,Basic,2022,4/11/2022,6/6/2023,Mystery,Spain,49,Female,Smartphone,6 Month,199,Good,720p,13,2587,208
+1898,Standard,2022,6/11/2022,10/7/2023,Adventure,United States,41,Female,Tablet,3 Month,499,Better,1080p,15,7485,85
+1899,Standard,2022,7/11/2022,7/9/2023,Horror,Canada,39,Female,Smartphone,6 Month,499,Better,1080p,11,5489,175
+1900,Basic,2022,6/11/2022,11/8/2023,Horror,United States,45,Female,Smartphone,1 Month,199,Good,720p,16,3184,53
+1901,Premium,2022,7/11/2022,11/6/2023,Crime,United States,38,Male,Tablet,1 Month,649,Best,4K+HDR,15,9735,55
+1902,Basic,2022,7/11/2022,7/10/2023,Action,Canada,30,Male,Smart TV,6 Month,199,Good,720p,11,2189,174
+1903,Standard,2022,3/11/2022,11/8/2023,Crime,United Kingdom,27,Female,Smart TV,1 Month,499,Better,1080p,19,9481,53
+1904,Premium,2022,3/11/2022,11/8/2023,Historical Fiction,Australia,36,Female,Smartphone,1 Month,649,Best,4K+HDR,19,12331,53
+1917,Basic,2022,12/8/2022,9/8/2023,Crime,Canada,32,Female,Tablet,3 Month,199,Good,720p,9,1791,114
+1918,Standard,2022,7/8/2022,7/10/2023,Drama,United Kingdom,34,Female,Smartphone,6 Month,499,Better,1080p,12,5988,174
+1919,Standard,2022,7/8/2022,6/9/2023,Non-Fiction,Australia,27,Female,Smart TV,6 Month,499,Better,1080p,11,5489,205
+1920,Basic,2022,4/8/2022,7/8/2023,Drama,Germany,38,Male,Laptop,6 Month,199,Good,720p,15,2985,176
+1926,Premium,2022,6/7/2022,7/10/2023,Non-Fiction,Spain,28,Female,Tablet,6 Month,649,Best,4K+HDR,13,8437,174
+1927,Basic,2022,7/7/2022,11/8/2023,Romance,Spain,43,Female,Smart TV,1 Month,199,Good,720p,16,3184,53
+1928,Standard,2022,7/7/2022,6/11/2023,Crime,United States,44,Female,Smart TV,6 Month,499,Better,1080p,11,5489,203
+1929,Standard,2022,8/7/2022,9/7/2023,Romance,Canada,33,Female,Smartphone,3 Month,499,Better,1080p,13,6487,115
+1930,Basic,2022,7/7/2022,11/9/2023,Historical Fiction,United States,36,Male,Smart TV,1 Month,199,Good,720p,16,3184,52
+1931,Premium,2022,8/7/2022,7/7/2023,Horror,United States,27,Male,Tablet,6 Month,649,Best,4K+HDR,11,7139,177
+1932,Basic,2022,9/7/2022,11/11/2023,Horror,Canada,41,Male,Tablet,1 Month,199,Good,720p,14,2786,50
+1933,Standard,2022,9/7/2022,12/7/2023,Autobiography,United Kingdom,32,Male,Smart TV,1 Month,499,Better,1080p,15,7485,24
+1934,Premium,2022,9/7/2022,7/8/2023,Crime,Australia,36,Female,Laptop,6 Month,649,Best,4K+HDR,10,6490,176
+1935,Basic,2022,12/7/2022,6/7/2023,Drama,Germany,36,Female,Tablet,6 Month,199,Good,720p,6,1194,207
+1946,Basic,2022,11/9/2022,9/10/2023,Drama,United States,34,Female,Smart TV,3 Month,199,Good,720p,10,1990,112
+1947,Basic,2022,12/9/2022,7/8/2023,Self-Help,Canada,39,Male,Smartphone,6 Month,199,Good,720p,6,1194,176
+1953,Standard,2022,9/10/2022,9/9/2023,Romance,Mexico,47,Male,Smartphone,3 Month,499,Better,1080p,11,5489,113
+1954,Standard,2022,10/10/2022,7/11/2023,Drama,Spain,43,Male,Laptop,6 Month,499,Better,1080p,9,4491,173
+1955,Basic,2022,11/10/2022,12/8/2023,Mystery,Italy,34,Male,Smartphone,1 Month,199,Good,720p,12,2388,23
+1956,Premium,2022,12/10/2022,9/8/2023,Comedy,Spain,30,Female,Tablet,3 Month,649,Best,4K+HDR,8,5192,114
+1964,Basic,2022,1/11/2022,12/8/2023,Comedy,Australia,29,Male,Smart TV,1 Month,199,Good,720p,22,4378,23
+1965,Standard,2022,2/11/2022,7/9/2023,Adventure,Germany,44,Female,Tablet,6 Month,499,Better,1080p,16,7984,175
+1966,Premium,2022,4/11/2022,10/9/2023,Action,France,44,Female,Tablet,3 Month,649,Best,4K+HDR,17,11033,83
+1967,Basic,2022,5/11/2022,7/6/2023,Mystery,Brazil,29,Male,Laptop,6 Month,199,Good,720p,13,2587,178
+1968,Standard,2022,6/11/2022,7/9/2023,Crime,Mexico,32,Female,Tablet,6 Month,499,Better,1080p,12,5988,175
+1969,Premium,2022,7/11/2022,9/9/2023,Adventure,Spain,31,Male,Smartphone,3 Month,649,Best,4K+HDR,13,8437,113
+1970,Basic,2022,8/11/2022,6/8/2023,Mystery,Italy,27,Male,Laptop,6 Month,199,Good,720p,9,1791,206
+1971,Premium,2022,8/11/2022,6/6/2023,Romance,Spain,43,Female,Laptop,6 Month,649,Best,4K+HDR,9,5841,208
+1972,Basic,2022,9/11/2022,12/10/2023,Biography,Spain,48,Male,Tablet,1 Month,199,Good,720p,14,2786,21
+1973,Standard,2022,9/11/2022,6/9/2023,Adventure,United States,37,Female,Tablet,6 Month,499,Better,1080p,8,3992,205
+1974,Standard,2022,5/11/2022,7/8/2023,Historical Fiction,Canada,42,Male,Smartphone,6 Month,499,Better,1080p,13,6487,176
+1975,Basic,2022,4/11/2022,11/7/2023,Drama,United States,40,Male,Tablet,1 Month,199,Good,720p,18,3582,54
+1977,Basic,2022,12/10/2022,11/9/2023,Adventure,Canada,31,Male,Smartphone,1 Month,199,Good,720p,10,1990,52
+1978,Standard,2022,3/10/2022,11/9/2023,Crime,United Kingdom,30,Male,Smart TV,1 Month,499,Better,1080p,19,9481,52
+1985,Basic,2022,6/9/2022,10/9/2023,Fantasy,Italy,40,Male,Tablet,3 Month,199,Good,720p,16,3184,83
+1987,Basic,2022,7/8/2022,7/8/2023,Horror,Spain,31,Male,Smart TV,6 Month,199,Good,720p,12,2388,176
+1988,Standard,2022,7/8/2022,6/10/2023,Horror,United States,39,Female,Smartphone,6 Month,499,Better,1080p,11,5489,204
+1989,Premium,2022,6/8/2022,10/9/2023,Autobiography,Canada,47,Female,Tablet,3 Month,649,Best,4K+HDR,16,10384,83
+1995,Basic,2022,12/7/2022,11/8/2023,Comedy,Germany,39,Male,Tablet,1 Month,199,Good,720p,11,2189,53
+1996,Premium,2022,11/7/2022,11/10/2023,Comedy,France,34,Male,Smart TV,1 Month,649,Best,4K+HDR,12,7788,51
+1997,Basic,2022,10/7/2022,9/8/2023,Comedy,Brazil,47,Male,Smart TV,3 Month,199,Good,720p,11,2189,114
+1998,Standard,2022,10/7/2022,10/11/2023,Drama,Mexico,47,Female,Smart TV,3 Month,499,Better,1080p,12,5988,81
+1999,Premium,2022,8/7/2022,12/8/2023,Horror,Spain,46,Male,Smart TV,1 Month,649,Best,4K+HDR,16,10384,23
+2000,Basic,2022,9/7/2022,7/9/2023,Action,Italy,31,Male,Smart TV,6 Month,199,Good,720p,10,1990,175
+2001,Premium,2022,9/7/2022,6/8/2023,Science Fiction,Spain,41,Female,Smart TV,6 Month,649,Best,4K+HDR,9,5841,206
+2002,Basic,2022,9/7/2022,6/11/2023,Non-Fiction,Spain,30,Female,Smartphone,6 Month,199,Good,720p,9,1791,203
+2003,Standard,2022,10/7/2022,10/8/2023,Thriller,United States,41,Male,Tablet,3 Month,499,Better,1080p,12,5988,84
+2004,Standard,2022,12/7/2022,10/8/2023,Biography,Canada,48,Female,Laptop,3 Month,499,Better,1080p,10,4990,84
+2010,Basic,2022,3/8/2022,6/10/2023,Autobiography,Germany,28,Male,Laptop,6 Month,199,Good,720p,15,2985,204
+2015,Basic,2022,5/9/2022,9/7/2023,Self-Help,Italy,27,Male,Smartphone,3 Month,199,Good,720p,15,2985,115
+2016,Premium,2022,6/9/2022,9/11/2023,Autobiography,Spain,32,Female,Smart TV,3 Month,649,Best,4K+HDR,15,9735,111
+2022,Basic,2022,6/10/2022,7/9/2023,Horror,Canada,48,Female,Laptop,6 Month,199,Good,720p,12,2388,175
+2023,Standard,2022,9/10/2022,6/10/2023,Adventure,United Kingdom,37,Male,Tablet,6 Month,499,Better,1080p,9,4491,204
+2024,Premium,2022,11/10/2022,10/11/2023,Fantasy,Australia,46,Female,Laptop,3 Month,649,Best,4K+HDR,11,7139,81
+2025,Basic,2022,12/10/2022,9/8/2023,Comedy,Germany,46,Male,Laptop,3 Month,199,Good,720p,8,1592,114
+2034,Standard,2022,2/11/2022,7/9/2023,Thriller,Canada,30,Male,Laptop,6 Month,499,Better,1080p,16,7984,175
+2035,Premium,2022,4/11/2022,11/10/2023,Thriller,United States,51,Female,Smart TV,1 Month,649,Best,4K+HDR,18,11682,51
+2036,Basic,2022,5/11/2022,7/9/2023,Romance,United States,48,Female,Smartphone,6 Month,199,Good,720p,13,2587,175
+2037,Premium,2022,6/11/2022,6/7/2023,Action,Canada,41,Female,Smart TV,6 Month,649,Best,4K+HDR,11,7139,207
+2038,Standard,2022,7/11/2022,11/10/2023,Comedy,United Kingdom,37,Female,Smartphone,1 Month,499,Better,1080p,15,7485,51
+2039,Basic,2022,8/11/2022,9/9/2023,Mystery,Australia,43,Male,Laptop,3 Month,199,Good,720p,12,2388,113
+2040,Standard,2022,8/11/2022,6/8/2023,Non-Fiction,Germany,51,Male,Laptop,6 Month,499,Better,1080p,9,4491,206
+2041,Premium,2022,9/11/2022,10/7/2023,Comedy,France,34,Female,Smartphone,3 Month,649,Best,4K+HDR,12,7788,85
+2042,Basic,2022,9/11/2022,11/10/2023,Self-Help,Brazil,35,Female,Smartphone,1 Month,199,Good,720p,13,2587,51
+2043,Standard,2022,5/11/2022,9/9/2023,Non-Fiction,Mexico,45,Female,Smart TV,3 Month,499,Better,1080p,15,7485,113
+2044,Premium,2022,5/11/2022,7/10/2023,Science Fiction,Spain,31,Male,Smart TV,6 Month,649,Best,4K+HDR,13,8437,174
+2045,Basic,2022,2/11/2022,6/8/2023,Fantasy,Italy,50,Female,Laptop,6 Month,199,Good,720p,15,2985,206
+2049,Standard,2022,8/10/2022,9/8/2023,Drama,Canada,34,Male,Tablet,3 Month,499,Better,1080p,12,5988,114
+2050,Basic,2022,4/10/2022,12/9/2023,Action,United States,35,Female,Smartphone,1 Month,199,Good,720p,19,3781,22
+2055,Basic,2022,5/9/2022,7/9/2023,Autobiography,Germany,29,Female,Laptop,6 Month,199,Good,720p,14,2786,175
+2057,Basic,2022,10/8/2022,11/8/2023,Self-Help,Brazil,32,Male,Smartphone,1 Month,199,Good,720p,13,2587,53
+2058,Standard,2022,10/8/2022,6/11/2023,Comedy,Mexico,31,Female,Smartphone,6 Month,499,Better,1080p,8,3992,203
+2059,Standard,2022,6/8/2022,6/9/2023,Biography,Spain,31,Male,Laptop,6 Month,499,Better,1080p,12,5988,205
+2060,Basic,2022,3/8/2022,6/10/2023,Mystery,Italy,29,Male,Smart TV,6 Month,199,Good,720p,15,2985,204
+2061,Premium,2022,1/8/2022,12/9/2023,Action,Spain,48,Male,Smart TV,1 Month,649,Best,4K+HDR,23,14927,22
+2066,Premium,2022,12/7/2022,11/10/2023,Comedy,United States,48,Female,Laptop,1 Month,649,Best,4K+HDR,11,7139,51
+2067,Basic,2022,12/7/2022,6/9/2023,Science Fiction,Canada,44,Female,Laptop,6 Month,199,Good,720p,6,1194,205
+2068,Standard,2022,10/7/2022,7/11/2023,Mystery,United Kingdom,47,Female,Laptop,6 Month,499,Better,1080p,9,4491,173
+2069,Standard,2022,11/7/2022,7/8/2023,Crime,Australia,35,Male,Smart TV,6 Month,499,Better,1080p,8,3992,176
+2070,Basic,2022,11/7/2022,9/9/2023,Self-Help,Germany,35,Female,Smartphone,3 Month,199,Good,720p,10,1990,113
+2071,Premium,2022,9/7/2022,9/8/2023,Drama,France,35,Male,Smartphone,3 Month,649,Best,4K+HDR,12,7788,114
+2072,Basic,2022,10/7/2022,9/11/2023,Fantasy,Brazil,49,Female,Laptop,3 Month,199,Good,720p,11,2189,111
+2073,Standard,2022,12/7/2022,6/8/2023,Horror,Mexico,50,Female,Tablet,6 Month,499,Better,1080p,6,2994,206
+2084,Premium,2022,1/9/2022,9/10/2023,Comedy,Australia,27,Female,Smartphone,3 Month,649,Best,4K+HDR,20,12980,112
+2085,Basic,2022,2/9/2022,10/9/2023,Mystery,Germany,33,Male,Laptop,3 Month,199,Good,720p,20,3980,83
+2086,Premium,2022,4/9/2022,7/12/2023,Action,France,45,Female,Smart TV,6 Month,649,Best,4K+HDR,15,9735,172
+2087,Basic,2022,11/9/2022,12/9/2023,Drama,Brazil,50,Male,Tablet,1 Month,199,Good,720p,13,2587,22
+2091,Premium,2022,5/10/2022,7/9/2023,Science Fiction,Spain,42,Female,Smartphone,6 Month,649,Best,4K+HDR,13,8437,175
+2092,Basic,2022,7/10/2022,10/9/2023,Horror,Spain,44,Female,Laptop,3 Month,199,Good,720p,14,2786,83
+2093,Standard,2022,10/10/2022,7/11/2023,Biography,United States,34,Male,Smart TV,6 Month,499,Better,1080p,9,4491,173
+2094,Premium,2022,12/10/2022,10/11/2023,Self-Help,Canada,40,Female,Smart TV,3 Month,649,Best,4K+HDR,10,6490,81
+2103,Standard,2022,1/11/2022,9/7/2023,Historical Fiction,Mexico,32,Female,Laptop,3 Month,499,Better,1080p,19,9481,115
+2104,Standard,2022,2/11/2022,9/11/2023,Adventure,Spain,28,Female,Tablet,3 Month,499,Better,1080p,19,9481,111
+2105,Basic,2022,4/11/2022,11/10/2023,Thriller,Italy,36,Female,Smartphone,1 Month,199,Good,720p,18,3582,51
+2106,Premium,2022,6/11/2022,11/9/2023,Autobiography,Spain,28,Female,Smartphone,1 Month,649,Best,4K+HDR,16,10384,52
+2107,Standard,2022,7/11/2022,9/7/2023,Science Fiction,Spain,32,Female,Smart TV,3 Month,499,Better,1080p,13,6487,115
+2108,Basic,2022,8/11/2022,7/10/2023,Historical Fiction,United States,50,Female,Smartphone,6 Month,199,Good,720p,10,1990,174
+2109,Standard,2022,9/11/2022,12/10/2023,Mystery,Canada,44,Male,Tablet,1 Month,499,Better,1080p,14,6986,21
+2110,Premium,2022,10/11/2022,12/10/2023,Non-Fiction,United States,44,Female,Smartphone,1 Month,649,Best,4K+HDR,13,8437,21
+2111,Basic,2022,9/11/2022,9/9/2023,Historical Fiction,United States,47,Male,Laptop,3 Month,199,Good,720p,11,2189,113
+2112,Premium,2022,9/11/2022,10/10/2023,Science Fiction,Canada,39,Female,Smart TV,3 Month,649,Best,4K+HDR,12,7788,82
+2113,Standard,2022,7/11/2022,6/10/2023,Mystery,United Kingdom,44,Female,Tablet,6 Month,499,Better,1080p,10,4990,204
+2114,Basic,2022,3/11/2022,7/10/2023,Fantasy,Australia,46,Female,Tablet,6 Month,199,Good,720p,15,2985,174
+2115,Standard,2022,4/11/2022,6/8/2023,Thriller,Germany,31,Female,Laptop,6 Month,499,Better,1080p,13,6487,206
+2116,Premium,2022,1/11/2022,9/10/2023,Horror,France,33,Female,Tablet,3 Month,649,Best,4K+HDR,19,12331,112
+2125,Basic,2022,5/9/2022,10/9/2023,Horror,United States,41,Female,Smartphone,3 Month,199,Good,720p,17,3383,83
+2127,Basic,2022,12/8/2022,10/9/2023,Non-Fiction,Canada,46,Male,Smartphone,3 Month,199,Good,720p,10,1990,83
+2128,Standard,2022,10/8/2022,7/11/2023,Action,United Kingdom,28,Female,Tablet,6 Month,499,Better,1080p,9,4491,173
+2129,Premium,2022,5/8/2022,11/9/2023,Fantasy,Australia,29,Female,Laptop,1 Month,649,Best,4K+HDR,18,11682,52
+2130,Basic,2022,4/8/2022,9/12/2023,Historical Fiction,Germany,46,Female,Tablet,3 Month,199,Good,720p,17,3383,110
+2138,Standard,2022,12/7/2022,12/12/2023,Action,United States,39,Male,Smartphone,1 Month,499,Better,1080p,12,5988,19
+2139,Premium,2022,12/7/2022,7/8/2023,Drama,Canada,34,Female,Smartphone,6 Month,649,Best,4K+HDR,7,4543,176
+2150,Basic,2022,6/8/2022,12/11/2023,Historical Fiction,Italy,46,Female,Tablet,1 Month,199,Good,720p,18,3582,20
+2155,Basic,2022,1/9/2022,6/9/2023,Historical Fiction,United States,44,Male,Smartphone,6 Month,199,Good,720p,17,3383,205
+2156,Premium,2022,7/9/2022,7/13/2023,Drama,United States,37,Male,Smart TV,6 Month,649,Best,4K+HDR,12,7788,171
+2162,Basic,2022,3/10/2022,9/10/2023,Thriller,Brazil,43,Female,Tablet,3 Month,199,Good,720p,18,3582,112
+2163,Standard,2022,10/10/2022,6/11/2023,Romance,Mexico,48,Male,Smart TV,6 Month,499,Better,1080p,8,3992,203
+2164,Standard,2022,12/10/2022,10/11/2023,Historical Fiction,Spain,32,Female,Smartphone,3 Month,499,Better,1080p,10,4990,81
+2174,Premium,2022,4/11/2022,6/11/2023,Mystery,Australia,33,Female,Smartphone,6 Month,649,Best,4K+HDR,14,9086,203
+2175,Basic,2022,6/11/2022,6/10/2023,Science Fiction,Germany,30,Male,Laptop,6 Month,199,Good,720p,11,2189,204
+2176,Basic,2022,7/11/2022,9/10/2023,Crime,France,46,Male,Tablet,3 Month,199,Good,720p,13,2587,112
+2177,Premium,2022,8/11/2022,11/9/2023,Action,Brazil,42,Female,Tablet,1 Month,649,Best,4K+HDR,14,9086,52
+2178,Standard,2022,9/11/2022,9/11/2023,Non-Fiction,Mexico,28,Female,Tablet,3 Month,499,Better,1080p,12,5988,111
+2179,Standard,2022,10/11/2022,12/10/2023,Adventure,Spain,40,Male,Smart TV,1 Month,499,Better,1080p,13,6487,21
+2180,Basic,2022,10/11/2022,7/10/2023,Drama,Italy,31,Female,Smart TV,6 Month,199,Good,720p,8,1592,174
+2181,Premium,2022,10/11/2022,6/9/2023,Autobiography,Spain,27,Male,Laptop,6 Month,649,Best,4K+HDR,7,4543,205
+2182,Standard,2022,9/11/2022,10/10/2023,Non-Fiction,Spain,45,Female,Tablet,3 Month,499,Better,1080p,12,5988,82
+2183,Basic,2022,9/11/2022,11/10/2023,Mystery,United States,49,Female,Smart TV,1 Month,199,Good,720p,13,2587,51
+2184,Standard,2022,6/11/2022,11/11/2023,Comedy,Canada,28,Male,Tablet,1 Month,499,Better,1080p,17,8483,50
+2185,Premium,2022,3/11/2022,9/8/2023,Adventure,United States,33,Male,Smart TV,3 Month,649,Best,4K+HDR,17,11033,114
+2189,Basic,2022,4/10/2022,6/9/2023,Action,Australia,35,Male,Laptop,6 Month,199,Good,720p,13,2587,205
+2194,Premium,2022,12/9/2022,9/12/2023,Autobiography,Spain,36,Female,Smart TV,3 Month,649,Best,4K+HDR,9,5841,110
+2198,Standard,2022,12/8/2022,9/11/2023,Science Fiction,United States,29,Female,Smart TV,3 Month,499,Better,1080p,9,4491,111
+2219,Standard,2022,6/8/2022,12/10/2023,Autobiography,Australia,41,Female,Laptop,1 Month,499,Better,1080p,18,8982,21
+2220,Basic,2022,11/8/2022,12/11/2023,Historical Fiction,Germany,41,Male,Smartphone,1 Month,199,Good,720p,13,2587,20
+2225,Basic,2022,2/9/2022,9/12/2023,Fantasy,Italy,45,Female,Smart TV,3 Month,199,Good,720p,19,3781,110
+2226,Premium,2022,6/9/2022,6/13/2023,Horror,Spain,41,Female,Laptop,6 Month,649,Best,4K+HDR,12,7788,201
+2227,Basic,2022,11/9/2022,10/10/2023,Horror,Spain,31,Male,Laptop,3 Month,199,Good,720p,11,2189,82
+2231,Premium,2022,2/10/2022,9/9/2023,Mystery,United States,47,Female,Smartphone,3 Month,649,Best,4K+HDR,18,11682,113
+2232,Basic,2022,4/10/2022,12/10/2023,Drama,Canada,40,Female,Laptop,1 Month,199,Good,720p,20,3980,21
+2233,Standard,2022,9/10/2022,11/12/2023,Crime,United Kingdom,34,Female,Smartphone,1 Month,499,Better,1080p,14,6986,49
+2234,Premium,2022,11/10/2022,10/11/2023,Biography,Australia,40,Male,Tablet,3 Month,649,Best,4K+HDR,11,7139,81
+2243,Standard,2022,4/11/2022,11/9/2023,Self-Help,United States,47,Female,Laptop,1 Month,499,Better,1080p,18,8982,52
+2244,Premium,2022,5/11/2022,7/12/2023,Action,Canada,40,Male,Smart TV,6 Month,649,Best,4K+HDR,14,9086,172
+2245,Basic,2022,7/11/2022,7/10/2023,Biography,United States,35,Female,Smart TV,6 Month,199,Good,720p,11,2189,174
+2246,Basic,2022,8/11/2022,11/10/2023,Horror,United States,37,Female,Smart TV,1 Month,199,Good,720p,14,2786,51
+2247,Basic,2022,9/11/2022,7/10/2023,Self-Help,Canada,30,Male,Tablet,6 Month,199,Good,720p,9,1791,174
+2248,Standard,2022,10/11/2022,10/11/2023,Comedy,United Kingdom,47,Female,Tablet,3 Month,499,Better,1080p,12,5988,81
+2249,Premium,2022,11/11/2022,12/10/2023,Mystery,Australia,35,Male,Smartphone,1 Month,649,Best,4K+HDR,12,7788,21
+2250,Basic,2022,10/11/2022,10/11/2023,Mystery,Germany,33,Male,Tablet,3 Month,199,Good,720p,12,2388,81
+2251,Basic,2022,10/11/2022,7/9/2023,Fantasy,France,51,Female,Laptop,6 Month,199,Good,720p,8,1592,175
+2252,Premium,2022,11/11/2022,7/11/2023,Action,Brazil,31,Female,Tablet,6 Month,649,Best,4K+HDR,8,5192,173
+2253,Standard,2022,7/11/2022,6/11/2023,Adventure,Mexico,48,Female,Laptop,6 Month,499,Better,1080p,11,5489,203
+2254,Standard,2022,4/11/2022,7/11/2023,Adventure,Spain,40,Male,Laptop,6 Month,499,Better,1080p,15,7485,173
+2259,Standard,2022,12/10/2022,7/10/2023,Biography,Canada,32,Female,Laptop,6 Month,499,Better,1080p,7,3493,174
+2260,Premium,2022,1/10/2022,6/11/2023,Crime,United States,31,Male,Tablet,6 Month,649,Best,4K+HDR,17,11033,203
+2264,Basic,2022,2/9/2022,11/12/2023,Adventure,Australia,41,Male,Smartphone,1 Month,199,Good,720p,21,4179,49
+2269,Premium,2022,1/8/2022,7/10/2023,Action,Spain,33,Female,Smartphone,6 Month,649,Best,4K+HDR,18,11682,174
+2288,Standard,2022,2/8/2022,6/13/2023,Autobiography,United States,50,Male,Smartphone,6 Month,499,Better,1080p,16,7984,201
+2289,Premium,2022,10/8/2022,6/10/2023,Action,Canada,31,Male,Tablet,6 Month,649,Best,4K+HDR,8,5192,204
+2296,Premium,2022,6/9/2022,6/13/2023,Action,France,37,Male,Smartphone,6 Month,649,Best,4K+HDR,12,7788,201
+2301,Premium,2022,3/10/2022,9/9/2023,Science Fiction,Spain,40,Male,Laptop,3 Month,649,Best,4K+HDR,17,11033,113
+2302,Basic,2022,5/10/2022,11/10/2023,Adventure,Spain,30,Female,Smartphone,1 Month,199,Good,720p,18,3582,51
+2303,Standard,2022,9/10/2022,11/12/2023,Adventure,United States,43,Male,Laptop,1 Month,499,Better,1080p,14,6986,49
+2312,Basic,2022,3/11/2022,10/11/2023,Self-Help,Brazil,38,Male,Smartphone,3 Month,199,Good,720p,19,3781,81
+2313,Standard,2022,4/11/2022,9/9/2023,Romance,Mexico,36,Female,Tablet,3 Month,499,Better,1080p,16,7984,113
+2314,Standard,2022,5/11/2022,12/12/2023,Horror,Spain,47,Female,Smart TV,1 Month,499,Better,1080p,19,9481,19
+2315,Basic,2022,7/11/2022,10/10/2023,Science Fiction,Italy,35,Female,Laptop,3 Month,199,Good,720p,14,2786,82
+2316,Premium,2022,9/11/2022,6/11/2023,Biography,Spain,29,Female,Tablet,6 Month,649,Best,4K+HDR,9,5841,203
+2317,Basic,2022,10/11/2022,11/10/2023,Action,Spain,49,Female,Smart TV,1 Month,199,Good,720p,12,2388,51
+2318,Standard,2022,11/11/2022,6/12/2023,Action,United States,34,Male,Smart TV,6 Month,499,Better,1080p,7,3493,202
+2319,Premium,2022,11/11/2022,12/11/2023,Romance,Canada,37,Male,Smart TV,1 Month,649,Best,4K+HDR,13,8437,20
+2320,Basic,2022,10/11/2022,6/11/2023,Action,United States,50,Male,Smart TV,6 Month,199,Good,720p,8,1592,203
+2321,Basic,2022,11/11/2022,12/9/2023,Non-Fiction,United States,38,Male,Smart TV,1 Month,199,Good,720p,12,2388,22
+2322,Basic,2022,12/11/2022,7/11/2023,Biography,Canada,37,Female,Smart TV,6 Month,199,Good,720p,7,1393,173
+2323,Standard,2022,7/11/2022,12/11/2023,Adventure,United Kingdom,34,Male,Laptop,1 Month,499,Better,1080p,17,8483,20
+2324,Premium,2022,4/11/2022,6/11/2023,Self-Help,Australia,30,Male,Smart TV,6 Month,649,Best,4K+HDR,14,9086,203
+2325,Basic,2022,3/11/2022,7/11/2023,Self-Help,Germany,35,Male,Laptop,6 Month,199,Good,720p,16,3184,173
+2326,Basic,2022,1/11/2022,12/11/2023,Non-Fiction,France,39,Male,Tablet,1 Month,199,Good,720p,23,4577,20
+2335,Premium,2022,8/9/2022,11/10/2023,Comedy,United States,45,Male,Laptop,1 Month,649,Best,4K+HDR,15,9735,51
+2338,Standard,2022,10/8/2022,7/11/2023,Adventure,United Kingdom,38,Female,Tablet,6 Month,499,Better,1080p,9,4491,173
+2358,Standard,2022,4/8/2022,9/14/2023,Action,Mexico,48,Female,Smartphone,3 Month,499,Better,1080p,17,8483,108
+2359,Standard,2022,12/8/2022,12/11/2023,Mystery,Spain,31,Male,Laptop,1 Month,499,Better,1080p,12,5988,20
+2365,Basic,2022,6/9/2022,11/13/2023,Non-Fiction,United States,47,Male,Smartphone,1 Month,199,Good,720p,17,3383,48
+2366,Premium,2022,9/9/2022,10/13/2023,Comedy,United States,43,Male,Smart TV,3 Month,649,Best,4K+HDR,13,8437,79
+2371,Premium,2022,3/10/2022,7/10/2023,Biography,France,29,Female,Smartphone,6 Month,649,Best,4K+HDR,16,10384,174
+2372,Basic,2022,7/10/2022,11/10/2023,Mystery,Brazil,38,Female,Tablet,1 Month,199,Good,720p,16,3184,51
+2382,Basic,2022,1/11/2022,9/11/2023,Historical Fiction,Canada,34,Female,Tablet,3 Month,199,Good,720p,20,3980,111
+2383,Standard,2022,5/11/2022,10/10/2023,Mystery,United Kingdom,35,Female,Tablet,3 Month,499,Better,1080p,16,7984,82
+2384,Premium,2022,7/11/2022,12/12/2023,Self-Help,Australia,30,Male,Smart TV,1 Month,649,Best,4K+HDR,17,11033,19
+2385,Basic,2022,8/11/2022,6/11/2023,Mystery,Germany,30,Male,Tablet,6 Month,199,Good,720p,10,1990,203
+2386,Premium,2022,10/11/2022,10/12/2023,Self-Help,France,41,Female,Smartphone,3 Month,649,Best,4K+HDR,12,7788,80
+2387,Basic,2022,11/11/2022,10/10/2023,Science Fiction,Brazil,39,Female,Smartphone,3 Month,199,Good,720p,10,1990,82
+2388,Standard,2022,12/11/2022,6/12/2023,Comedy,Mexico,30,Male,Tablet,6 Month,499,Better,1080p,6,2994,202
+2389,Standard,2022,11/11/2022,12/12/2023,Non-Fiction,Spain,36,Female,Smart TV,1 Month,499,Better,1080p,13,6487,19
+2390,Basic,2022,11/11/2022,12/12/2023,Adventure,Italy,33,Female,Smartphone,1 Month,199,Good,720p,13,2587,19
+2391,Premium,2022,12/11/2022,11/10/2023,Crime,Spain,35,Female,Tablet,1 Month,649,Best,4K+HDR,10,6490,51
+2392,Basic,2022,11/11/2022,12/12/2023,Comedy,Spain,46,Male,Tablet,1 Month,199,Good,720p,13,2587,19
+2393,Standard,2022,7/11/2022,7/11/2023,Autobiography,United States,51,Female,Tablet,6 Month,499,Better,1080p,12,5988,173
+2394,Premium,2022,5/11/2022,6/12/2023,Action,Canada,42,Female,Smartphone,6 Month,649,Best,4K+HDR,13,8437,202
+2395,Basic,2022,2/11/2022,9/11/2023,Autobiography,United States,30,Female,Smart TV,3 Month,199,Good,720p,19,3781,111
+2402,Premium,2022,5/10/2022,12/11/2023,Science Fiction,Brazil,47,Female,Smartphone,1 Month,649,Best,4K+HDR,19,12331,20
+2405,Basic,2022,6/9/2022,10/11/2023,Drama,Italy,32,Female,Smart TV,3 Month,199,Good,720p,16,3184,81
+2409,Standard,2022,3/8/2022,9/11/2023,Non-Fiction,Canada,38,Female,Laptop,3 Month,499,Better,1080p,18,8982,111
+2410,Premium,2022,2/8/2022,7/14/2023,Autobiography,United States,34,Male,Smartphone,6 Month,649,Best,4K+HDR,17,11033,170
+2411,Basic,2022,2/8/2022,12/11/2023,Horror,United States,37,Female,Smartphone,1 Month,199,Good,720p,22,4378,20
+2412,Premium,2022,1/8/2022,7/13/2023,Thriller,Canada,27,Female,Smart TV,6 Month,649,Best,4K+HDR,18,11682,171
+2427,Basic,2022,3/8/2022,6/14/2023,Romance,Canada,28,Female,Smartphone,6 Month,199,Good,720p,15,2985,200
+2428,Standard,2022,6/8/2022,7/15/2023,Fantasy,United Kingdom,30,Female,Tablet,6 Month,499,Better,1080p,13,6487,169
+2429,Premium,2022,10/8/2022,9/12/2023,Adventure,Australia,30,Female,Smartphone,3 Month,649,Best,4K+HDR,11,7139,110
+2435,Basic,2022,6/9/2022,10/13/2023,Thriller,Italy,39,Male,Smartphone,3 Month,199,Good,720p,16,3184,79
+2441,Premium,2022,7/10/2022,10/10/2023,Thriller,United States,49,Female,Smartphone,3 Month,649,Best,4K+HDR,15,9735,82
+2442,Basic,2022,8/10/2022,6/12/2023,Adventure,Canada,36,Male,Smartphone,6 Month,199,Good,720p,10,1990,202
+2443,Standard,2022,10/10/2022,11/13/2023,Crime,United Kingdom,28,Female,Laptop,1 Month,499,Better,1080p,13,6487,48
+2452,Basic,2022,4/11/2022,10/13/2023,Non-Fiction,Spain,31,Female,Tablet,3 Month,199,Good,720p,18,3582,79
+2453,Standard,2022,6/11/2022,10/11/2023,Self-Help,United States,48,Female,Smartphone,3 Month,499,Better,1080p,16,7984,81
+2454,Standard,2022,8/11/2022,11/13/2023,Crime,Canada,36,Male,Smartphone,1 Month,499,Better,1080p,15,7485,48
+2455,Basic,2022,9/11/2022,12/11/2023,Self-Help,United States,38,Female,Tablet,1 Month,199,Good,720p,15,2985,20
+2456,Premium,2022,11/11/2022,10/13/2023,Science Fiction,United States,39,Male,Smartphone,3 Month,649,Best,4K+HDR,11,7139,79
+2457,Basic,2022,12/11/2022,6/10/2023,Non-Fiction,Canada,48,Male,Tablet,6 Month,199,Good,720p,5,995,204
+2458,Standard,2022,12/11/2022,9/12/2023,Science Fiction,United Kingdom,30,Female,Smart TV,3 Month,499,Better,1080p,9,4491,110
+2459,Premium,2022,12/11/2022,7/12/2023,Adventure,Australia,30,Male,Smart TV,6 Month,649,Best,4K+HDR,7,4543,172
+2460,Basic,2022,12/11/2022,12/13/2023,Autobiography,Germany,35,Female,Smart TV,1 Month,199,Good,720p,12,2388,18
+2463,Standard,2022,12/11/2022,11/11/2023,Fantasy,Mexico,50,Male,Smart TV,1 Month,499,Better,1080p,11,5489,50
+2464,Standard,2022,5/11/2022,10/12/2023,Comedy,Spain,42,Female,Smartphone,3 Month,499,Better,1080p,17,8483,80
+2465,Basic,2022,3/11/2022,10/11/2023,Thriller,Italy,30,Male,Tablet,3 Month,199,Good,720p,19,3781,81
+2474,Premium,2022,6/9/2022,9/12/2023,Non-Fiction,Australia,49,Male,Smart TV,3 Month,649,Best,4K+HDR,15,9735,110
+2475,Basic,2022,5/9/2022,12/11/2023,Horror,Germany,37,Female,Tablet,1 Month,199,Good,720p,19,3781,20
+2480,Basic,2022,7/8/2022,11/14/2023,Horror,Italy,47,Male,Laptop,1 Month,199,Good,720p,16,3184,47
+2481,Premium,2022,5/8/2022,9/12/2023,Action,Spain,33,Female,Laptop,3 Month,649,Best,4K+HDR,16,10384,110
+2482,Standard,2022,6/8/2022,12/14/2023,Thriller,Spain,37,Female,Laptop,1 Month,499,Better,1080p,18,8982,17
+2497,Basic,2022,4/8/2022,11/14/2023,Historical Fiction,Spain,33,Female,Smart TV,1 Month,199,Good,720p,19,3781,47
+2498,Standard,2022,9/8/2022,6/15/2023,Comedy,United States,38,Male,Laptop,6 Month,499,Better,1080p,9,4491,199
+2499,Standard,2022,12/8/2022,11/12/2023,Historical Fiction,Canada,48,Female,Tablet,1 Month,499,Better,1080p,11,5489,49
